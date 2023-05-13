@@ -1,4 +1,4 @@
-    * How to implement change
+* How to implement change
         * Define what the goal is
             * Keep it focused and simple
             * Break multiple goals into multiple changes and do them one at a time for best results
