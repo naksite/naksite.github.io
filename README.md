@@ -40,8 +40,9 @@
   * Define what success looks like and how to measure it
   * Make a decision to go forward
   * Make the change
-  * Measure the impact
+  * Measure the impact, subjective and objective
   * Celebrate your success (publish results) or reverse the changes if they aren't positive.
+    * A monthly, quarterly or year end review is a great idea.
   * Division head or their delegate makes the call of any change go/no-go decision
     * other Division admins can not overrule a decision made by a Division head
 
