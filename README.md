@@ -47,7 +47,9 @@
     * other Division admins can not overrule a decision made by a Division head
 
 ### Player Interaction
-
+  * Bi-monthly meeting with players to LISTEN to player's most pressing issues and their potential solutions.
+  * Will need to be responsible for facilitating this meeting, collecting feedback etc.
+  * Is this the Community management division or is this a cross department function like a player interaction council?
 
 
 
