@@ -1,0 +1,16 @@
+    * Org chart
+        * Who dun it?
+        * Where can we find it?
+        * Who's going to keep it up to date?
+    * Upcoming Zeus proposed changes
+        * Zeus badge changes
+            * Box had a plan for Zeus badge changes
+            * define the goal, plan, test, propose, change, measure.
+        * Remove enemy intel markers from map vote results
+            * Proposal has been made, awaiting go/no-go decision.  Make the final call and move on.
+        * Remove scoreboard vote results
+            * Proposal has been made, awaiting go/no-go decision.  Make the final call and move on.
+        * NAK Ops
+            * pre-built mission requirements
+            * Proposal needs more ideas and guidelines but is getting a whole lot closer
+            * finish proposed change, figure out how to measure the results, make the go/no-go decision and make the change
