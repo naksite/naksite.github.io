@@ -54,11 +54,11 @@
 * [World Time](https://i.imgur.com/8Hai7B1.png)
 * [World Time Buddy](https://worldtimebuddy.com)
 * [How to implement change](Change.md) Recommendations and tips
-* [Upcoming Zeus proposed changes](MayZeusProposedChanges.md)
+* Upcoming Zeus proposed changes
   * Zeus badge changes (Boxdogman)
   * Remove enemy intel markers from map vote results
   * Remove scoreboard vote results
-  * NAK Ops (Michael)
+  * NAK Ops by mission pbo (Michael)
 * [Org chart](NakOrgChart.pdf)
 * [NAK Kanban](https://kanbanflow.com/board/e3MCGCe)
 * [NAK Trello](https://trello.com/b/Y9nLfUZF/project-nakanniversary)
