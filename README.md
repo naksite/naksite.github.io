@@ -1,4 +1,4 @@
-# NAK CMD site (naksite.github.io)
+# NAK CMD site
 
 * Meeting topics
     * [How to implement change](Change.md)
