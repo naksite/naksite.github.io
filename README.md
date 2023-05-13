@@ -1,8 +1,10 @@
 # NAK CMD site
 
 ## Meeting notes
+
 ### NAK Cmd monthly meeting
   * 2nd Saturday of each month @ 15:00 server time (Eastern/US)
+
 ### What is NAK Cmd?
   * Revise and publish Admin Code of Conduct ``TODO: CoS``
     * Hold ourselves to a higher standard.
@@ -15,6 +17,7 @@
     * Policing the servers and community
     * Senior Moderators are to take punitive, escallating action towards rule violators
     * Junior Moderators are to always record questionable actions observed and initiate the kick/ban process according to their rank
+
 ### Update of Information
   * Things are getting way out of date for both NAK Cmd and for players.
   * We need to make sure it's clear who should be maintaining each piece of information
@@ -25,6 +28,7 @@
     * When a new doc is uploaded that needs to be published create a task on that department's task board to publish that information wherever it's needed
       * could be multiple places, make multiple tasks
   * Create list of information by department ``TODO: Division Heads``
+
 ### New Changes, Expectations and goals for each Division, Key Performance Indicators, Decisions on Changes
   * Define a simple goal
   * Define goals and share them with others for feedback
@@ -59,4 +63,3 @@
 * [NAK Kanban](https://kanbanflow.com/board/e3MCGCe)
 * [NAK Trello](https://trello.com/b/Y9nLfUZF/project-nakanniversary)
 * [NAK Support](https://i.ibb.co/0VGcJ2J/NAK-Support.png)
-
