@@ -83,7 +83,7 @@
 ****
 #+CAPTION: NAK Support (from PR)
 #+NAME:   NAK Support.png
-[[[[https://i.ibb.co/0VGcJ2J/NAK-Support.png]]]]
+[[[[/NAK-Support.png]]]]
 
 * Tasks
 
