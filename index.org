@@ -49,7 +49,6 @@
       When a new doc is uploaded that needs to be published create a task on that department's task board to publish that information wherever it's needed
         could be multiple places, make multiple tasks
 **** TODO Create list of information available and needed by department ``TODO: Division Heads``
-
 *** New Changes, Expectations and goals for each Division, Key Performance Indicators, Decisions on Changes
     Define a simple goal
     Define goals and share them with others for feedback
@@ -65,9 +64,7 @@
     Celebrate your success (publish results) or reverse the changes if they aren't positive.
     Division head or their delegate makes the call of any change go/no-go decision
       other Division admins can not overrule a decision made by a Division head
-
 *** Player Interaction
-
 *** Meeting extras
 **** [World Time](https://i.imgur.com/8Hai7B1.png)
 **** [World Time Buddy](https://worldtimebuddy.com)
@@ -80,10 +77,10 @@
 **** [Org chart](NakOrgChart.pdf)
 **** [NAK Kanban](https://kanbanflow.com/board/e3MCGCe)
 **** [NAK Trello](https://trello.com/b/Y9nLfUZF/project-nakanniversary)
-****
 #+CAPTION: NAK Support (from PR)
 #+NAME:   NAK Support.png
-[[[[/NAK-Support.png]]]]
+**** [[./NAK-Support.png]]
+
 
 * Tasks
 
