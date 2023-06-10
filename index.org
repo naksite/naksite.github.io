@@ -69,18 +69,21 @@
 *** Player Interaction
 
 *** Meeting extras
-    [World Time](https://i.imgur.com/8Hai7B1.png)
-    [World Time Buddy](https://worldtimebuddy.com)
-    [How to implement change](Change.md) Recommendations and tips
-    Upcoming Zeus proposed changes
-      Zeus badge changes (Boxdogman)
-      Remove enemy intel markers from map vote results
-      Remove scoreboard vote results
-    NAK Ops by mission pbo (Michael)
-    [Org chart](NakOrgChart.pdf)
-    [NAK Kanban](https://kanbanflow.com/board/e3MCGCe)
-    [NAK Trello](https://trello.com/b/Y9nLfUZF/project-nakanniversary)
-    [NAK Support](https://i.ibb.co/0VGcJ2J/NAK-Support.png)
+**** [World Time](https://i.imgur.com/8Hai7B1.png)
+**** [World Time Buddy](https://worldtimebuddy.com)
+**** [How to implement change](Change.md) Recommendations and tips
+**** Upcoming Zeus proposed changes
+      - Zeus badge changes (Boxdogman)
+      - Remove enemy intel markers from map vote results
+      - Remove scoreboard vote results
+**** NAK Ops by mission pbo (Michael)
+**** [Org chart](NakOrgChart.pdf)
+**** [NAK Kanban](https://kanbanflow.com/board/e3MCGCe)
+**** [NAK Trello](https://trello.com/b/Y9nLfUZF/project-nakanniversary)
+****
+#+CAPTION: NAK Support (from PR)
+#+NAME:   NAK Support.png
+[[[[https://i.ibb.co/0VGcJ2J/NAK-Support.png]]]]
 
 * Tasks
 
