@@ -81,9 +81,70 @@
 #+NAME:   NAK Support.png
 **** [[./NAK-Support.png]]
 
-** 20230610
-*** torpix
 
+** 20230610
+*** Review accomplishments
+**** S&E
+      - save loadout on ace arsenal
+      - reworking badge system
+      - adding advanced zeus badge on TS
+      - updaging sqf on altis to get filter working
+      - adding curated event on altis
+      - revamping tanoa mission
+**** PR
+***** protocol and doc for receiving youtube videos
+***** validated and updated streaming guidelines
+      - awaiting review and approvals
+***** created overall current state and generated backlog of tasks
+      - donation boards being designed
+      - investigate platforms for PR
+        - ways to engage communities via newsletters, social media etc.
+      - understand why players find nak, why they leave, why they stay
+      - promotional video
+        - awaiting approval
+      - revamping structured ops
+        - what kind of ops do players want?
+        - how can they communicate this?
+
+**** Communications
+***** not present today
+
+**** Admin Management
+***** promotion management chart created
+      - shows when mods have reached milestones for promotions
+      - allows for multiple department officers to facilitate promotions instead of just dept head
+***** creating a video on how to do bans
+      - timestamps direct to examples of each rule violation
+***** multiple videos for other FAQs for new admins
+      - how to teleport
+      - spectate
+      - use the admin menu
+
+**** CoS
+***** Website needs complete revamp
+      - might need paid plugins, themes
+***** Need to push for donations
+      - more Box for Box depends on it
+***** Paypal is how we pay for things
+      - need a debit card for places that don't accept paypal
+      - will be creating a more transparent way to show our expenses to encourage players to donate
+
+**** HR
+***** Ask players about their skills
+      - This doesn't mean you will get tasks assigned to you, it might be just to have someone come to you for advice
+***** Continue to encourage all admins to add their skills to doc
+      - make doc consumable
+***** players can help without being part of NAK CMD
+***** Propose Staff position for non-admin non-mod workers.
+      - New tag for Content Contributor (just contributor?)
+      - Nak bucks for work?
+
+**** R&D
+***** Add Department tags to Guilded, discord, TS, more?
+***** Create Index site for Youtube videos?
+      - for admins?
+      - maybe for all documents?
+*****
 
 * Tasks
 
