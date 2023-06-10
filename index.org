@@ -128,6 +128,7 @@
 ***** Paypal is how we pay for things
       - need a debit card for places that don't accept paypal
       - will be creating a more transparent way to show our expenses to encourage players to donate
+***** Server upgrades to help with performance issues
 
 **** HR
 ***** Ask players about their skills
@@ -138,13 +139,22 @@
 ***** Propose Staff position for non-admin non-mod workers.
       - New tag for Content Contributor (just contributor?)
       - Nak bucks for work?
+***** We are all volunteers
+      - Task lists are going to get super long.  That's what they're for.
+      - The trick is to keep track of what needs to be done and where everyone is at with each task so they CAN take a long time
+      - Try not to feel overwhelmed by it.  If you do, talk to your department head and if that doesn't work a Chief of Staff.
+      - You can always talk to me about how to work through the list and keep things organized or spread tasks out.
 
 **** R&D
 ***** Add Department tags to Guilded, discord, TS, more?
 ***** Create Index site for Youtube videos?
       - for admins?
       - maybe for all documents?
-*****
+
+*** Extras
+**** [Questions about Zeus badges, modules or zeus functions] https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform
+**** [Suggest mod theme] https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform
+**** Next meeting July 8, same time
 
 * Tasks
 
