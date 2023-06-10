@@ -66,7 +66,7 @@
       other Division admins can not overrule a decision made by a Division head
 *** Player Interaction
 *** Meeting extras
-**** [World Time](https://i.imgur.com/8Hai7B1.png)
+**** [[https://i.imgur.com/8Hai7B1.png]][World Time]
 **** [World Time Buddy](https://worldtimebuddy.com)
 **** [How to implement change](Change.md) Recommendations and tips
 **** Upcoming Zeus proposed changes
