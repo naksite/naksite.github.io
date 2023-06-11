@@ -8,11 +8,10 @@
 # Adapted from https://dev.to/erickgnavar/auto-build-and-publish-emacs-org-configuration-as-a-website-2cl9
 #+STARTUP: overview
 
+#+TOC: headlines 2
 
 * CMD Meetings
 ** 20230610
-
-#+TOC: headlines 2
 
 *** Review accomplishments
 
