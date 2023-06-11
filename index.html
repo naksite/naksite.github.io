@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-06-11 Sun 11:19 -->
+<!-- 2023-06-11 Sun 11:22 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>NAKsite</title>
@@ -12,201 +12,12 @@
 <meta name="description" content="Org-mode"
  />
 <meta name="keywords" content="syntax, org, document" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
-<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/darksun.css"/>
-<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/hideshow.css"/>
-<script type="text/javascript" src="export/styles/darksun/js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/jquery-ui-1.10.2.min.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/jquery.localscroll-min.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/jquery.zclip.min.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/darksun.js"></script>
-<script type="text/javascript" src="export/styles/darksun/js/hideshow.js"></script>
-<script type="text/javascript" src="export/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -261,67 +72,67 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgde7a62b">CMD Meetings</a>
+<li><a href="#org76cdf09">CMD Meetings</a>
 <ul>
-<li><a href="#orgf402fad">20230610</a>
+<li><a href="#org597ddb9">20230610</a>
 <ul>
-<li><a href="#org5a44e64">Review accomplishments</a>
+<li><a href="#org39e3a1b">Review accomplishments</a>
 <ul>
-<li><a href="#orga85e9b0">S&amp;E</a></li>
-<li><a href="#org2429937">PR</a></li>
-<li><a href="#org66c3d05">Communications</a></li>
-<li><a href="#org7cb18b0">Admin Management</a></li>
-<li><a href="#org2bf8a84">CoS</a></li>
-<li><a href="#orgba08a7f">HR</a></li>
-<li><a href="#org0834462">R&amp;D</a></li>
+<li><a href="#org9b6300e">S&amp;E</a></li>
+<li><a href="#orgbb1c4fc">PR</a></li>
+<li><a href="#org1541022">Communications</a></li>
+<li><a href="#org833c4bf">Admin Management</a></li>
+<li><a href="#orga70b963">CoS</a></li>
+<li><a href="#org0c7d6e4">HR</a></li>
+<li><a href="#orgee606ad">R&amp;D</a></li>
 </ul>
 </li>
-<li><a href="#org74140ab">Extras</a>
+<li><a href="#org0e8b8af">Extras</a>
 <ul>
-<li><a href="#org7a68272">[Questions about Zeus badges, modules or zeus functions] https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform</a></li>
-<li><a href="#orgf093e45">[Suggest mod theme] https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform</a></li>
-<li><a href="#orgd2da598">[mouse pads] https://imgur.com/a/kg3QVaj</a></li>
-<li><a href="#org5ef48dc">Next meeting July 8, same time</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgdb15e2c">20230513</a>
-<ul>
-<li><a href="#org516ddd3">NAKCmd Monthly meeting</a></li>
-<li><a href="#org6dd86e8">What is NAKCmd?</a>
-<ul>
-<li><a href="#org6bc3004"><span class="todo TODO">TODO</span> Revise and publish Admin Code of Conduct</a></li>
-<li><a href="#org8cd0c4f"><span class="todo TODO">TODO</span> Revise and publish Expectations of Admins</a></li>
-<li><a href="#org7f45445"><span class="todo TODO">TODO</span> Revise and publish Expectations of Moderators</a></li>
-</ul>
-</li>
-<li><a href="#orga7b324b">Update of Information</a>
-<ul>
-<li><a href="#org3301be8"><span class="todo TODO">TODO</span> Create list of information available and needed by department ``TODO: Division Heads``</a></li>
-</ul>
-</li>
-<li><a href="#org2e71a79">Changes</a></li>
-<li><a href="#org90d6ea8">Player Interaction</a></li>
-<li><a href="#orgde2d718">Meeting extras</a>
-<ul>
-<li><a href="#org258ad5c">[World Time]https://i.imgur.com/8Hai7B1.png</a></li>
-<li><a href="#org6496910">[World Time Buddy] https://worldtimebuddy.com</a></li>
-<li><a href="#org0f70143">[How to implement change] ./Change.org Recommendations and tips</a></li>
-<li><a href="#org51c04d8">Upcoming Zeus proposed changes</a></li>
-<li><a href="#orgaad33fe">NAK Ops by mission pbo (Michael)</a></li>
-<li><a href="#org72bba96">[Org chart] file:./NakOrgChart.pdf</a></li>
-<li><a href="#org01b132d">[NAK Kanban] https://kanbanflow.com/board/e3MCGCe</a></li>
-<li><a href="#orgca924f0">[NAK Trello] https://trello.com/b/Y9nLfUZF/project-nakanniversary</a></li>
-<li><a href="#org6fced83">./NAK-Support.png</a></li>
+<li><a href="#org1f227c3">[Questions about Zeus badges, modules or zeus functions] https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform</a></li>
+<li><a href="#orgd326576">[Suggest mod theme] https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform</a></li>
+<li><a href="#orgafb41a5">[mouse pads] https://imgur.com/a/kg3QVaj</a></li>
+<li><a href="#org6867e04">Next meeting July 8, same time</a></li>
 </ul>
 </li>
 </ul>
 </li>
+<li><a href="#org0e019cf">20230513</a>
+<ul>
+<li><a href="#org31593fe">NAKCmd Monthly meeting</a></li>
+<li><a href="#orgf80a8bb">What is NAKCmd?</a>
+<ul>
+<li><a href="#orgfedbaf7"><span class="todo TODO">TODO</span> Revise and publish Admin Code of Conduct</a></li>
+<li><a href="#org21e0f6d"><span class="todo TODO">TODO</span> Revise and publish Expectations of Admins</a></li>
+<li><a href="#orge160428"><span class="todo TODO">TODO</span> Revise and publish Expectations of Moderators</a></li>
 </ul>
 </li>
-<li><a href="#orge57328d">Tasks</a></li>
-<li><a href="#orgbbbd016">Initiatives</a></li>
+<li><a href="#orgd176481">Update of Information</a>
+<ul>
+<li><a href="#org32f1187"><span class="todo TODO">TODO</span> Create list of information available and needed by department ``TODO: Division Heads``</a></li>
+</ul>
+</li>
+<li><a href="#orgb2e492f">Changes</a></li>
+<li><a href="#orgf91720c">Player Interaction</a></li>
+<li><a href="#org9542805">Meeting extras</a>
+<ul>
+<li><a href="#orga732a60">[World Time]https://i.imgur.com/8Hai7B1.png</a></li>
+<li><a href="#org4e72e0e">[World Time Buddy] https://worldtimebuddy.com</a></li>
+<li><a href="#org81c0afe">[How to implement change] ./Change.org Recommendations and tips</a></li>
+<li><a href="#orgd340ebf">Upcoming Zeus proposed changes</a></li>
+<li><a href="#org05a3b2e">NAK Ops by mission pbo (Michael)</a></li>
+<li><a href="#orga8c4d5e">[Org chart] file:./NakOrgChart.pdf</a></li>
+<li><a href="#orgea721ff">[NAK Kanban] https://kanbanflow.com/board/e3MCGCe</a></li>
+<li><a href="#orgf599e46">[NAK Trello] https://trello.com/b/Y9nLfUZF/project-nakanniversary</a></li>
+<li><a href="#org3733a33">./NAK-Support.png</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org0dd6884">Tasks</a></li>
+<li><a href="#org9801956">Initiatives</a></li>
 </ul>
 </div>
 </div>
@@ -329,47 +140,47 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgde7a62b">CMD Meetings</a>
+<li><a href="#org76cdf09">CMD Meetings</a>
 <ul>
-<li><a href="#orgf402fad">20230610</a>
+<li><a href="#org597ddb9">20230610</a>
 <ul>
-<li><a href="#org5a44e64">Review accomplishments</a></li>
-<li><a href="#org74140ab">Extras</a></li>
+<li><a href="#org39e3a1b">Review accomplishments</a></li>
+<li><a href="#org0e8b8af">Extras</a></li>
 </ul>
 </li>
-<li><a href="#orgdb15e2c">20230513</a>
+<li><a href="#org0e019cf">20230513</a>
 <ul>
-<li><a href="#org516ddd3">NAKCmd Monthly meeting</a></li>
-<li><a href="#org6dd86e8">What is NAKCmd?</a></li>
-<li><a href="#orga7b324b">Update of Information</a></li>
-<li><a href="#org2e71a79">Changes</a></li>
-<li><a href="#org90d6ea8">Player Interaction</a></li>
-<li><a href="#orgde2d718">Meeting extras</a></li>
+<li><a href="#org31593fe">NAKCmd Monthly meeting</a></li>
+<li><a href="#orgf80a8bb">What is NAKCmd?</a></li>
+<li><a href="#orgd176481">Update of Information</a></li>
+<li><a href="#orgb2e492f">Changes</a></li>
+<li><a href="#orgf91720c">Player Interaction</a></li>
+<li><a href="#org9542805">Meeting extras</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge57328d">Tasks</a></li>
-<li><a href="#orgbbbd016">Initiatives</a></li>
+<li><a href="#org0dd6884">Tasks</a></li>
+<li><a href="#org9801956">Initiatives</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgde7a62b" class="outline-2">
-<h2 id="orgde7a62b">CMD Meetings</h2>
-<div class="outline-text-2" id="text-orgde7a62b">
+<div id="outline-container-org76cdf09" class="outline-2">
+<h2 id="org76cdf09">CMD Meetings</h2>
+<div class="outline-text-2" id="text-org76cdf09">
 </div>
-<div id="outline-container-orgf402fad" class="outline-3">
-<h3 id="orgf402fad">20230610</h3>
-<div class="outline-text-3" id="text-orgf402fad">
+<div id="outline-container-org597ddb9" class="outline-3">
+<h3 id="org597ddb9">20230610</h3>
+<div class="outline-text-3" id="text-org597ddb9">
 </div>
-<div id="outline-container-org5a44e64" class="outline-4">
-<h4 id="org5a44e64">Review accomplishments</h4>
-<div class="outline-text-4" id="text-org5a44e64">
+<div id="outline-container-org39e3a1b" class="outline-4">
+<h4 id="org39e3a1b">Review accomplishments</h4>
+<div class="outline-text-4" id="text-org39e3a1b">
 </div>
-<div id="outline-container-orga85e9b0" class="outline-5">
-<h5 id="orga85e9b0">S&amp;E</h5>
-<div class="outline-text-5" id="text-orga85e9b0">
+<div id="outline-container-org9b6300e" class="outline-5">
+<h5 id="org9b6300e">S&amp;E</h5>
+<div class="outline-text-5" id="text-org9b6300e">
 <ul class="org-ul">
 <li>save loadout on ace arsenal</li>
 <li>reworking badge system</li>
@@ -381,24 +192,24 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org2429937" class="outline-5">
-<h5 id="org2429937">PR</h5>
-<div class="outline-text-5" id="text-org2429937">
+<div id="outline-container-orgbb1c4fc" class="outline-5">
+<h5 id="orgbb1c4fc">PR</h5>
+<div class="outline-text-5" id="text-orgbb1c4fc">
 </div>
-<div id="outline-container-org7733c65" class="outline-6">
-<h6 id="org7733c65">protocol and doc for receiving youtube videos</h6>
+<div id="outline-container-orgfa32b37" class="outline-6">
+<h6 id="orgfa32b37">protocol and doc for receiving youtube videos</h6>
 </div>
-<div id="outline-container-org523b999" class="outline-6">
-<h6 id="org523b999">validated and updated streaming guidelines</h6>
-<div class="outline-text-6" id="text-org523b999">
+<div id="outline-container-org85327ff" class="outline-6">
+<h6 id="org85327ff">validated and updated streaming guidelines</h6>
+<div class="outline-text-6" id="text-org85327ff">
 <ul class="org-ul">
 <li>awaiting review and approvals</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgddd6ca6" class="outline-6">
-<h6 id="orgddd6ca6">created overall current state and generated backlog of tasks</h6>
-<div class="outline-text-6" id="text-orgddd6ca6">
+<div id="outline-container-org5d9651c" class="outline-6">
+<h6 id="org5d9651c">created overall current state and generated backlog of tasks</h6>
+<div class="outline-text-6" id="text-org5d9651c">
 <ul class="org-ul">
 <li>donation boards being designed</li>
 <li>investigate platforms for PR
@@ -420,39 +231,39 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org66c3d05" class="outline-5">
-<h5 id="org66c3d05">Communications</h5>
-<div class="outline-text-5" id="text-org66c3d05">
+<div id="outline-container-org1541022" class="outline-5">
+<h5 id="org1541022">Communications</h5>
+<div class="outline-text-5" id="text-org1541022">
 </div>
-<div id="outline-container-orgf18a329" class="outline-6">
-<h6 id="orgf18a329">not present today</h6>
+<div id="outline-container-orga7ff926" class="outline-6">
+<h6 id="orga7ff926">not present today</h6>
 </div>
 </div>
 
-<div id="outline-container-org7cb18b0" class="outline-5">
-<h5 id="org7cb18b0">Admin Management</h5>
-<div class="outline-text-5" id="text-org7cb18b0">
+<div id="outline-container-org833c4bf" class="outline-5">
+<h5 id="org833c4bf">Admin Management</h5>
+<div class="outline-text-5" id="text-org833c4bf">
 </div>
-<div id="outline-container-orgf4da464" class="outline-6">
-<h6 id="orgf4da464">promotion management chart created</h6>
-<div class="outline-text-6" id="text-orgf4da464">
+<div id="outline-container-org13ca695" class="outline-6">
+<h6 id="org13ca695">promotion management chart created</h6>
+<div class="outline-text-6" id="text-org13ca695">
 <ul class="org-ul">
 <li>shows when mods have reached milestones for promotions</li>
 <li>allows for multiple department officers to facilitate promotions instead of just dept head</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc647c70" class="outline-6">
-<h6 id="orgc647c70">creating a video on how to do bans</h6>
-<div class="outline-text-6" id="text-orgc647c70">
+<div id="outline-container-org0ba7602" class="outline-6">
+<h6 id="org0ba7602">creating a video on how to do bans</h6>
+<div class="outline-text-6" id="text-org0ba7602">
 <ul class="org-ul">
 <li>timestamps direct to examples of each rule violation</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdfcc5d5" class="outline-6">
-<h6 id="orgdfcc5d5">multiple videos for other FAQs for new admins</h6>
-<div class="outline-text-6" id="text-orgdfcc5d5">
+<div id="outline-container-org717112b" class="outline-6">
+<h6 id="org717112b">multiple videos for other FAQs for new admins</h6>
+<div class="outline-text-6" id="text-org717112b">
 <ul class="org-ul">
 <li>how to teleport</li>
 <li>spectate</li>
@@ -462,75 +273,75 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org2bf8a84" class="outline-5">
-<h5 id="org2bf8a84">CoS</h5>
-<div class="outline-text-5" id="text-org2bf8a84">
+<div id="outline-container-orga70b963" class="outline-5">
+<h5 id="orga70b963">CoS</h5>
+<div class="outline-text-5" id="text-orga70b963">
 </div>
-<div id="outline-container-org214ceda" class="outline-6">
-<h6 id="org214ceda">Website needs complete revamp</h6>
-<div class="outline-text-6" id="text-org214ceda">
+<div id="outline-container-orgc47c46d" class="outline-6">
+<h6 id="orgc47c46d">Website needs complete revamp</h6>
+<div class="outline-text-6" id="text-orgc47c46d">
 <ul class="org-ul">
 <li>might need paid plugins, themes</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc52e3d9" class="outline-6">
-<h6 id="orgc52e3d9">Need to push for donations</h6>
-<div class="outline-text-6" id="text-orgc52e3d9">
+<div id="outline-container-org61c8efb" class="outline-6">
+<h6 id="org61c8efb">Need to push for donations</h6>
+<div class="outline-text-6" id="text-org61c8efb">
 <ul class="org-ul">
 <li>more Box for Box depends on it</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orge742497" class="outline-6">
-<h6 id="orge742497">Paypal is how we pay for things</h6>
-<div class="outline-text-6" id="text-orge742497">
+<div id="outline-container-org90e71f7" class="outline-6">
+<h6 id="org90e71f7">Paypal is how we pay for things</h6>
+<div class="outline-text-6" id="text-org90e71f7">
 <ul class="org-ul">
 <li>need a debit card for places that don't accept paypal</li>
 <li>will be creating a more transparent way to show our expenses to encourage players to donate</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb691989" class="outline-6">
-<h6 id="orgb691989">Server upgrades to help with performance issues</h6>
+<div id="outline-container-org38d5709" class="outline-6">
+<h6 id="org38d5709">Server upgrades to help with performance issues</h6>
 </div>
 </div>
 
-<div id="outline-container-orgba08a7f" class="outline-5">
-<h5 id="orgba08a7f">HR</h5>
-<div class="outline-text-5" id="text-orgba08a7f">
+<div id="outline-container-org0c7d6e4" class="outline-5">
+<h5 id="org0c7d6e4">HR</h5>
+<div class="outline-text-5" id="text-org0c7d6e4">
 </div>
-<div id="outline-container-orgdab0f87" class="outline-6">
-<h6 id="orgdab0f87">Ask players about their skills</h6>
-<div class="outline-text-6" id="text-orgdab0f87">
+<div id="outline-container-org85a1dfd" class="outline-6">
+<h6 id="org85a1dfd">Ask players about their skills</h6>
+<div class="outline-text-6" id="text-org85a1dfd">
 <ul class="org-ul">
 <li>This doesn't mean you will get tasks assigned to you, it might be just to have someone come to you for advice</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf2d178f" class="outline-6">
-<h6 id="orgf2d178f">Continue to encourage all admins to add their skills to doc</h6>
-<div class="outline-text-6" id="text-orgf2d178f">
+<div id="outline-container-org8ae4481" class="outline-6">
+<h6 id="org8ae4481">Continue to encourage all admins to add their skills to doc</h6>
+<div class="outline-text-6" id="text-org8ae4481">
 <ul class="org-ul">
 <li>make doc consumable</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org02fc863" class="outline-6">
-<h6 id="org02fc863">players can help without being part of NAK CMD</h6>
+<div id="outline-container-org25f35c2" class="outline-6">
+<h6 id="org25f35c2">players can help without being part of NAK CMD</h6>
 </div>
-<div id="outline-container-org72bf8f7" class="outline-6">
-<h6 id="org72bf8f7">Propose Staff position for non-admin non-mod workers.</h6>
-<div class="outline-text-6" id="text-org72bf8f7">
+<div id="outline-container-orgbea6fba" class="outline-6">
+<h6 id="orgbea6fba">Propose Staff position for non-admin non-mod workers.</h6>
+<div class="outline-text-6" id="text-orgbea6fba">
 <ul class="org-ul">
 <li>New tag for Content Contributor (just contributor?)</li>
 <li>Nak bucks for work?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd310991" class="outline-6">
-<h6 id="orgd310991">We are all volunteers</h6>
-<div class="outline-text-6" id="text-orgd310991">
+<div id="outline-container-org693b8a0" class="outline-6">
+<h6 id="org693b8a0">We are all volunteers</h6>
+<div class="outline-text-6" id="text-org693b8a0">
 <ul class="org-ul">
 <li>Task lists are going to get super long.  That's what they're for.</li>
 <li>The trick is to keep track of what needs to be done and where everyone is at with each task so they CAN take a long time</li>
@@ -541,16 +352,16 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org0834462" class="outline-5">
-<h5 id="org0834462">R&amp;D</h5>
-<div class="outline-text-5" id="text-org0834462">
+<div id="outline-container-orgee606ad" class="outline-5">
+<h5 id="orgee606ad">R&amp;D</h5>
+<div class="outline-text-5" id="text-orgee606ad">
 </div>
-<div id="outline-container-org466888a" class="outline-6">
-<h6 id="org466888a">Add Department tags to Guilded, discord, TS, more?</h6>
+<div id="outline-container-org9f4a1c8" class="outline-6">
+<h6 id="org9f4a1c8">Add Department tags to Guilded, discord, TS, more?</h6>
 </div>
-<div id="outline-container-orgfff984b" class="outline-6">
-<h6 id="orgfff984b">Create Index site for Youtube videos?</h6>
-<div class="outline-text-6" id="text-orgfff984b">
+<div id="outline-container-orge025a58" class="outline-6">
+<h6 id="orge025a58">Create Index site for Youtube videos?</h6>
+<div class="outline-text-6" id="text-orge025a58">
 <ul class="org-ul">
 <li>for admins?</li>
 <li>maybe for all documents?</li>
@@ -561,64 +372,64 @@ for the JavaScript code in this tag.
 </div>
 
 
-<div id="outline-container-org74140ab" class="outline-4">
-<h4 id="org74140ab">Extras</h4>
-<div class="outline-text-4" id="text-org74140ab">
+<div id="outline-container-org0e8b8af" class="outline-4">
+<h4 id="org0e8b8af">Extras</h4>
+<div class="outline-text-4" id="text-org0e8b8af">
 </div>
-<div id="outline-container-org7a68272" class="outline-5">
-<h5 id="org7a68272">[Questions about Zeus badges, modules or zeus functions] <a href="https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform">https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform</a></h5>
+<div id="outline-container-org1f227c3" class="outline-5">
+<h5 id="org1f227c3">[Questions about Zeus badges, modules or zeus functions] <a href="https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform">https://docs.google.com/forms/d/e/1FAIpQLScsBf5IonHalgPFpAbfMiLjZkGwxTgYQ_0V4cmMO1y4h8l1iA/viewform</a></h5>
 </div>
-<div id="outline-container-orgf093e45" class="outline-5">
-<h5 id="orgf093e45">[Suggest mod theme] <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform</a></h5>
+<div id="outline-container-orgd326576" class="outline-5">
+<h5 id="orgd326576">[Suggest mod theme] <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdPv2PgaduRkEvW8urbbacjlH9dzecr34AgX54lXFZ8R5KpWw/viewform</a></h5>
 </div>
-<div id="outline-container-orgd2da598" class="outline-5">
-<h5 id="orgd2da598">[mouse pads] <a href="https://imgur.com/a/kg3QVaj">https://imgur.com/a/kg3QVaj</a></h5>
+<div id="outline-container-orgafb41a5" class="outline-5">
+<h5 id="orgafb41a5">[mouse pads] <a href="https://imgur.com/a/kg3QVaj">https://imgur.com/a/kg3QVaj</a></h5>
 </div>
-<div id="outline-container-org5ef48dc" class="outline-5">
-<h5 id="org5ef48dc">Next meeting July 8, same time</h5>
+<div id="outline-container-org6867e04" class="outline-5">
+<h5 id="org6867e04">Next meeting July 8, same time</h5>
 </div>
 </div>
 </div>
 
 
-<div id="outline-container-orgdb15e2c" class="outline-3">
-<h3 id="orgdb15e2c">20230513</h3>
-<div class="outline-text-3" id="text-orgdb15e2c">
+<div id="outline-container-org0e019cf" class="outline-3">
+<h3 id="org0e019cf">20230513</h3>
+<div class="outline-text-3" id="text-org0e019cf">
 </div>
-<div id="outline-container-org516ddd3" class="outline-4">
-<h4 id="org516ddd3">NAKCmd Monthly meeting</h4>
-<div class="outline-text-4" id="text-org516ddd3">
+<div id="outline-container-org31593fe" class="outline-4">
+<h4 id="org31593fe">NAKCmd Monthly meeting</h4>
+<div class="outline-text-4" id="text-org31593fe">
 <ul class="org-ul">
 <li>2nd Saturday of each month @ 15:00 server time (Eastern/US)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org6dd86e8" class="outline-4">
-<h4 id="org6dd86e8">What is NAKCmd?</h4>
-<div class="outline-text-4" id="text-org6dd86e8">
+<div id="outline-container-orgf80a8bb" class="outline-4">
+<h4 id="orgf80a8bb">What is NAKCmd?</h4>
+<div class="outline-text-4" id="text-orgf80a8bb">
 </div>
-<div id="outline-container-org6bc3004" class="outline-5">
-<h5 id="org6bc3004"><span class="todo TODO">TODO</span> Revise and publish Admin Code of Conduct</h5>
-<div class="outline-text-5" id="text-org6bc3004">
+<div id="outline-container-orgfedbaf7" class="outline-5">
+<h5 id="orgfedbaf7"><span class="todo TODO">TODO</span> Revise and publish Admin Code of Conduct</h5>
+<div class="outline-text-5" id="text-orgfedbaf7">
 <ul class="org-ul">
 <li>Hold outselves to a higher standard.</li>
 <li>No hyprocrisy!  Admins and moderators are not immune to the rules.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8cd0c4f" class="outline-5">
-<h5 id="org8cd0c4f"><span class="todo TODO">TODO</span> Revise and publish Expectations of Admins</h5>
-<div class="outline-text-5" id="text-org8cd0c4f">
+<div id="outline-container-org21e0f6d" class="outline-5">
+<h5 id="org21e0f6d"><span class="todo TODO">TODO</span> Revise and publish Expectations of Admins</h5>
+<div class="outline-text-5" id="text-org21e0f6d">
 <ul class="org-ul">
 <li>Clear communication from admins to their department leadership</li>
 <li>Use initiative when dealing with policies and tasks associated with their department</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7f45445" class="outline-5">
-<h5 id="org7f45445"><span class="todo TODO">TODO</span> Revise and publish Expectations of Moderators</h5>
-<div class="outline-text-5" id="text-org7f45445">
+<div id="outline-container-orge160428" class="outline-5">
+<h5 id="orge160428"><span class="todo TODO">TODO</span> Revise and publish Expectations of Moderators</h5>
+<div class="outline-text-5" id="text-orge160428">
 <ul class="org-ul">
 <li>Something to offer the community without getting into administrative tasks</li>
 <li>Policing the servers and community</li>
@@ -629,9 +440,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orga7b324b" class="outline-4">
-<h4 id="orga7b324b">Update of Information</h4>
-<div class="outline-text-4" id="text-orga7b324b">
+<div id="outline-container-orgd176481" class="outline-4">
+<h4 id="orgd176481">Update of Information</h4>
+<div class="outline-text-4" id="text-orgd176481">
 <ul class="org-ul">
 <li>Things are getting way out of date for both NAK Cmd and for players.</li>
 <li>We need to make sure it's clear who should be maintaining each piece of information</li>
@@ -647,14 +458,14 @@ for the JavaScript code in this tag.
 </ul></li>
 </ul>
 </div>
-<div id="outline-container-org3301be8" class="outline-5">
-<h5 id="org3301be8"><span class="todo TODO">TODO</span> Create list of information available and needed by department ``TODO: Division Heads``</h5>
+<div id="outline-container-org32f1187" class="outline-5">
+<h5 id="org32f1187"><span class="todo TODO">TODO</span> Create list of information available and needed by department ``TODO: Division Heads``</h5>
 </div>
 </div>
 
-<div id="outline-container-org2e71a79" class="outline-4">
-<h4 id="org2e71a79">Changes</h4>
-<div class="outline-text-4" id="text-org2e71a79">
+<div id="outline-container-orgb2e492f" class="outline-4">
+<h4 id="orgb2e492f">Changes</h4>
+<div class="outline-text-4" id="text-orgb2e492f">
 <ul class="org-ul">
 <li>Covers multiple topics:
 <ul class="org-ul">
@@ -685,26 +496,26 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org90d6ea8" class="outline-4">
-<h4 id="org90d6ea8">Player Interaction</h4>
+<div id="outline-container-orgf91720c" class="outline-4">
+<h4 id="orgf91720c">Player Interaction</h4>
 </div>
 
-<div id="outline-container-orgde2d718" class="outline-4">
-<h4 id="orgde2d718">Meeting extras</h4>
-<div class="outline-text-4" id="text-orgde2d718">
+<div id="outline-container-org9542805" class="outline-4">
+<h4 id="org9542805">Meeting extras</h4>
+<div class="outline-text-4" id="text-org9542805">
 </div>
-<div id="outline-container-org258ad5c" class="outline-5">
-<h5 id="org258ad5c">[World Time]<img src="https://i.imgur.com/8Hai7B1.png" alt="8Hai7B1.png" /></h5>
+<div id="outline-container-orga732a60" class="outline-5">
+<h5 id="orga732a60">[World Time]<img src="https://i.imgur.com/8Hai7B1.png" alt="8Hai7B1.png" /></h5>
 </div>
-<div id="outline-container-org6496910" class="outline-5">
-<h5 id="org6496910">[World Time Buddy] <a href="https://worldtimebuddy.com">https://worldtimebuddy.com</a></h5>
+<div id="outline-container-org4e72e0e" class="outline-5">
+<h5 id="org4e72e0e">[World Time Buddy] <a href="https://worldtimebuddy.com">https://worldtimebuddy.com</a></h5>
 </div>
-<div id="outline-container-org0f70143" class="outline-5">
-<h5 id="org0f70143">[How to implement change] ./Change.org Recommendations and tips</h5>
+<div id="outline-container-org81c0afe" class="outline-5">
+<h5 id="org81c0afe">[How to implement change] ./Change.org Recommendations and tips</h5>
 </div>
-<div id="outline-container-org51c04d8" class="outline-5">
-<h5 id="org51c04d8">Upcoming Zeus proposed changes</h5>
-<div class="outline-text-5" id="text-org51c04d8">
+<div id="outline-container-orgd340ebf" class="outline-5">
+<h5 id="orgd340ebf">Upcoming Zeus proposed changes</h5>
+<div class="outline-text-5" id="text-orgd340ebf">
 <ul class="org-ul">
 <li>Zeus badge changes (Boxdogman)</li>
 <li>Remove enemy intel markers from map vote results</li>
@@ -712,38 +523,38 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgaad33fe" class="outline-5">
-<h5 id="orgaad33fe">NAK Ops by mission pbo (Michael)</h5>
+<div id="outline-container-org05a3b2e" class="outline-5">
+<h5 id="org05a3b2e">NAK Ops by mission pbo (Michael)</h5>
 </div>
-<div id="outline-container-org72bba96" class="outline-5">
-<h5 id="org72bba96">[Org chart] <a href="./NakOrgChart.pdf">./NakOrgChart.pdf</a></h5>
+<div id="outline-container-orga8c4d5e" class="outline-5">
+<h5 id="orga8c4d5e">[Org chart] <a href="./NakOrgChart.pdf">./NakOrgChart.pdf</a></h5>
 </div>
-<div id="outline-container-org01b132d" class="outline-5">
-<h5 id="org01b132d">[NAK Kanban] <a href="https://kanbanflow.com/board/e3MCGCe">https://kanbanflow.com/board/e3MCGCe</a></h5>
+<div id="outline-container-orgea721ff" class="outline-5">
+<h5 id="orgea721ff">[NAK Kanban] <a href="https://kanbanflow.com/board/e3MCGCe">https://kanbanflow.com/board/e3MCGCe</a></h5>
 </div>
-<div id="outline-container-orgca924f0" class="outline-5">
-<h5 id="orgca924f0">[NAK Trello] <a href="https://trello.com/b/Y9nLfUZF/project-nakanniversary">https://trello.com/b/Y9nLfUZF/project-nakanniversary</a></h5>
-<div class="outline-text-5" id="text-orgca924f0">
-</div>
-</div>
-<div id="outline-container-org6fced83" class="outline-5">
-<h5 id="org6fced83"><img src="./NAK-Support.png" alt="NAK-Support.png" /></h5>
+<div id="outline-container-orgf599e46" class="outline-5">
+<h5 id="orgf599e46">[NAK Trello] <a href="https://trello.com/b/Y9nLfUZF/project-nakanniversary">https://trello.com/b/Y9nLfUZF/project-nakanniversary</a></h5>
+<div class="outline-text-5" id="text-orgf599e46">
 </div>
 </div>
+<div id="outline-container-org3733a33" class="outline-5">
+<h5 id="org3733a33"><img src="./NAK-Support.png" alt="NAK-Support.png" /></h5>
 </div>
 </div>
-
-<div id="outline-container-orge57328d" class="outline-2">
-<h2 id="orge57328d">Tasks</h2>
+</div>
 </div>
 
-<div id="outline-container-orgbbbd016" class="outline-2">
-<h2 id="orgbbbd016">Initiatives</h2>
+<div id="outline-container-org0dd6884" class="outline-2">
+<h2 id="org0dd6884">Tasks</h2>
+</div>
+
+<div id="outline-container-org9801956" class="outline-2">
+<h2 id="org9801956">Initiatives</h2>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sny</p>
-<p class="date">Created: 2023-06-11 Sun 11:19</p>
+<p class="date">Created: 2023-06-11 Sun 11:22</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
