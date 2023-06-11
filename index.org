@@ -8,7 +8,9 @@
 # Adapted from https://dev.to/erickgnavar/auto-build-and-publish-emacs-org-configuration-as-a-website-2cl9
 #+STARTUP: overview
 
-#+TOC: headlines 2
+#+TOC: headlines 3
+:PROPERTIES:
+:ALT_TITLE: Index
 
 * CMD Meetings
 ** 20230610
