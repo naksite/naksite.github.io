@@ -45,7 +45,7 @@ confirmpush () {
 git add -A 1> /dev/null
 git commit -m "$MSG" 1> /dev/null
 hr
-echo -e "======> These changes will be pushed\n"
+echo -e "\r\t\tThese changes will be pushed\n"
 git push --dry-run
 git diff --stat --cached origin/main | cat
 
