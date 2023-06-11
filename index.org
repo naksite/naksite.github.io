@@ -6,7 +6,7 @@
 #+KEYWORDS:  syntax, org, document
 #+LANGUAGE:  en
 # Adapted from https://dev.to/erickgnavar/auto-build-and-publish-emacs-org-configuration-as-a-website-2cl9
-#+STARTUP: hideblocks
+#+STARTUP: overview
 
 
 * CMD Meetings
