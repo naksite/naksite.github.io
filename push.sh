@@ -25,7 +25,7 @@ confirmpush () {
  REPLY=h
  while true
  do
-   hr
+   hr ; echo -e "\n"
    echo -e "\t\tPress 'y' to push these changes\t\tPress 'n' to roll back commit\t\tPress 'x' to quit"
    hr
    read -n1 -s
@@ -44,6 +44,7 @@ confirmpush () {
 ./render-emacs-org-to-html.sh
 git add -A 1> /dev/null
 git commit -m "$MSG" 1> /dev/null
+hr
 echo -e "======> These changes will be pushed\n"
 git push --dry-run
 git diff --stat --cached origin/main | cat
