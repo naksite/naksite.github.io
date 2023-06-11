@@ -9,6 +9,3 @@
 
 # SETUPFILE: https://gitlab.com/OlMon/org-themes/-/raw/master/src/darksun/export/setup/theme-darksun.setup
 #+SETUPFILE: export/setup/theme-darksun-local.setup
-
-#+OPTIONS: H:5 num:nil toc:4 p:t
-#+PROPERTY:  header-args :eval never-export
