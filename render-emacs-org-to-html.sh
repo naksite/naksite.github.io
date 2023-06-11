@@ -17,7 +17,7 @@ if [ $SETUP  == 0 ]; then
   ls -oh ${FILE}.org | awk '{$1 = ""; $2 = "";} 1'
 fi
 
-emacs ${FILE}.org --batch -Q --load org-render-html-minimal.el -f org-html-export-to-html --kill 2> /dev/null
+emacs ${FILE}.org --batch -Q --load org-render-html-minimal.el -f org-html-export-to-html --kill
 echo "New html file:"
 ls -oh ${FILE}.html | awk '{$1 = ""; $2 = "";} 1'
 

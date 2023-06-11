@@ -126,7 +126,12 @@
         - could be multiple places, make multiple tasks
 **** TODO Create list of information available and needed by department ``TODO: Division Heads``
 
-*** New Changes, Expectations and goals for each Division, Key Performance Indicators, Decisions on Changes
+*** Changes
+    + Covers multiple topics:
+      - New Changes
+      - Expectations and goals for each Division
+      - Key Performance Indicators
+      - Decisions on Changes
     + Define a simple goal
     + Define goals and share them with others for feedback
       - CoS should assign goals to divisions
