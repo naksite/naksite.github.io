@@ -9,9 +9,9 @@
 #+STARTUP: overview
 #+PROPERTY:  header-args :eval never-export
 
-#+OPTIONS: H:5 num:nil toc:4 p:t ALT_TITLE:Index
+#+OPTIONS: H:2 num:nil toc:3 p:t
 
-#+TOC: headlines 3
+# TOC: headlines 3 ALT_TITLE:Index
 
 * CMD Meetings
 ** 20230610
