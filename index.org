@@ -1,6 +1,6 @@
 # Hey Emacs, this is a -*- org -*- file ...
 #+TITLE: NAKsite
-#+OPTIONS: H:5 num:nil toc:2 p:t
+#+OPTIONS: H:5 num:nil toc:3 p:t
 #+AUTHOR:    Sny
 #+EMAIL:     sny@aquavitae.org
 #+DESCRIPTION: Org mode Notes
