@@ -19,17 +19,20 @@ die () {
 trap "die 'SIG disruption, but cleanup finished.' 114" 1 2 3 15
 #    Cleanup after INTERRUPT: 1=SIGHUP, 2=SIGINT, 3=SIGQUIT, 15=SIGTERM
 
+hr () { printf "%0$(tput cols)d" | tr 0 ${1:-=}; }
 
 confirmpush () {
  REPLY=h
  while true
  do
+   hr
    echo -e "\t\tPress 'y' to push these changes\t\tPress 'n' to roll back commit\t\tPress 'x' to quit"
+   hr
    read -n1 -s
    case "$REPLY" in
-     x | X ) echo "Exiting leaving adds and commits as is" ;    break ;;
-     n | N ) git reset HEAD^ ; echo "Aborted push and commit" ; break ;;
-     y | Y ) git push ; echo "Pushed" ;                         break ;;
+     x | X ) echo "======> Exiting leaving adds and commits as is" ;    break ;;
+     n | N ) git reset HEAD^ ; echo "======> Aborted push and commit" ; break ;;
+     y | Y ) git push ; echo "======> Pushed" ;                         break ;;
          * ) echo ""                                                  ;;
    esac
  done
@@ -39,9 +42,9 @@ confirmpush () {
 [ "${1}" ] && MSG="${1}" || MSG="$(date +%Y%m%d%H%M)"
 
 ./render-emacs-org-to-html.sh
-git add -A
-git commit -m "$MSG"
-echo -e "\t\tThese changes will be pushed\n"
+git add -A 1> /dev/null
+git commit -m "$MSG" 1> /dev/null
+echo -e "======> These changes will be pushed\n"
 git push --dry-run
 git diff --stat --cached origin/main | cat
 
