@@ -41,7 +41,12 @@ confirmpush () {
 
 [ "${1}" ] && MSG="${1}" || MSG="$(date +%Y%m%d%H%M)"
 
-./render-emacs-org-to-html.sh
+if [ -f ./orglist ]; then
+  for i in $(cat ./orglist); do ./render-emacs-org-to-html.sh $i; done
+else
+  ./render-emacs-org-to-html.sh
+fi
+
 git add -A 1> /dev/null
 git commit -m "$MSG" 1> /dev/null
 hr
