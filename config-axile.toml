@@ -1,0 +1,14 @@
+baseURL = "https://axile.netlify.app/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "axile"
+
+[params]
+icon = "https://github.com/Axorax/css-button-maker/blob/main/assets/img/axorax.png?raw=true"
+
+[params.navbar]
+patreon = "https://patreon.com/axorax"
+
+[params.navbarButton]
+Donate = "https://patreon.com/axorax"
+
