@@ -23,8 +23,7 @@
     - If you are joining the event and in the event channel, you need to follow the event commanders orders.
     - If that's not something you want to do, you're free to use the other channels and the server as you see fit within the normal NAK rules.
     - CAS will not be allowed to fire without being directed by JTAC if one is present.
-*** Technical
-- 108.61.9.162:2302
+  - 108.61.9.162:2302
 ** #2 Public Modded Zeus
 - Required Mods
   - [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687][Collection]] -or- [[/PRESETS/Nak_Unsung_Req.html][HTML]]
@@ -40,9 +39,8 @@
     - There are qualifications to join the unit.
     - There is training for specific roles before you will be allowed to take them.
     - While we're still here to have a lot of fun, expectations are higher than normal.
-*** Technical
-- 144.48.106.187:2321
-*** #3 Tanoa QuickSilver
+  - 144.48.106.187:2321
+** #3 Tanoa QuickSilver
 - [[https://www.naksquad.net/mods/approved-mods/][Huge Allowed Mods List]]
 - Events
   - Tactical Tuesday
@@ -50,8 +48,7 @@
       - runs until server restart at 9pm
   - Recommended Mods for event
   - Please do not run RHS as it breaks sound for others on this server.
-*** Technical
-- 104.243.32.98:2402
+  - 104.243.32.98:2402
 ** #4 Public Vanilla Zeus
 - [[https://www.naksquad.net/mods/approved-mods/][Huge Allowed Mods List]]
 - Sny's Recommended Mods
@@ -62,11 +59,9 @@
     - Required Mods for event
       - CBA and Enhanced Movement are the only mods expected for the event
     - Please arrive early enough to get your loadout and team assignments 30-45 minutes if you are new.
-*** Technical
-- 72.5.195.213:2302
+  - 72.5.195.213:2302
 ** #5 SnyOps
 - Who let you in here?  How do you know about this place?  SECURITY!
-*** Technical
 - [[/PRESETS/SnyOps_ArmaMen.html][10001110101]]
 * NAK
 ** Rules
