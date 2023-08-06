@@ -16,3 +16,12 @@
 [submodule "themes/capsule"]
     path = themes/capsule
     url = https://github.com/sudorook/capsule
+[submodule "themes/hugo-clarity"]
+	path = themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/dsrkafuu/hugo-theme-fuji.git
+[submodule "themes/hugo-arcana"]
+	path = themes/hugo-arcana
+	url = git@github.com:half-duplex/hugo-arcana.git
