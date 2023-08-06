@@ -52,7 +52,8 @@ fi
 
 ##### render all the org files in the orglist
 for i in $(cat ./orglist); do
-    ./render-emacs-org-to-html.sh $HOMEDIR/$i
+  ./render-emacs-org-to-html.sh $HOMEDIR/$i
+  mv $HOMEDIR/${i}.html .
 done
 
 
