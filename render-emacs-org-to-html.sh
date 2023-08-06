@@ -10,7 +10,7 @@ SETUP=$(grep -c SETUPFILE ${FILE}.org)
 echo "Original org file:"
 ls -oh ${FILE}.org | awk '{$1 = ""; $2 = "";} 1'
 
-if [ $SETUP  == 0 ]; then
+if [ $SETUP == 0 ]; then
   mv -v ${FILE}.org ${FILE}.original
   cat header.theme ${FILE}.original > ${FILE}.org
   echo "Modified org file:"
