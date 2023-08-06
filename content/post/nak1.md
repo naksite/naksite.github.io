@@ -19,11 +19,11 @@ tags:
 menu: main
 comments: true
 authorbox: false
-toc: true
+toc: false
 tocOpen: false
 mathjax: false
 related: false
-draft: true
+draft: false
 ---
 
 # Mods
