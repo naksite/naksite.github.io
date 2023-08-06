@@ -30,7 +30,7 @@
 - Optional Mods
   - [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384][Collection]] -or- [[./PRESETS/Nak_Unsung_Opt.html][HTML]]
 - Sny's Recommended Mods
-  - [[/PRESETS/Nak_Unsung_Sny.html][HTML]]
+  - [[./PRESETS/Nak_Unsung_Sny.html][HTML]]
 - Events
   - NAK Tac
     - Day and time to be determined
@@ -62,7 +62,7 @@
   - 72.5.195.213:2302
 ** #5 SnyOps
 - Who let you in here?  How do you know about this place?  SECURITY!
-- [[.//PRESETS/SnyOps_ArmaMen.html][10001110101]]
+- [[./PRESETS/SnyOps_ArmaMen.html][10001110101]]
 * NAK
 ** Rules
  - Visit our website https://naksquad.net for a complete listing of the rules or ask a moderator or admin for clarification.
