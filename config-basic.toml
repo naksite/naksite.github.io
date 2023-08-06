@@ -2,7 +2,7 @@ baseurl = "/"
 title = "NakSquad"
 languageCode = "en-us"
 theme = "binario"
-paginate = "10"
+paginate = "5"
 pluralizeListTitles = false
 [Params]
   description = "Naksquad.net" # Site Description. Used in meta description
@@ -35,8 +35,12 @@ pluralizeListTitles = false
   #hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
   tagsInHome = 3     # set zero to not show in home page
   sectionsInHome = 3  # set zero to not show in home page
+  paginator_pages = "5"
+  tagsLimit = 20
   paginatePostsPerPage = 5
   paginateTagsPerPage = 6
+
+darkmode = "light"
 
   # Default path for images in posts
   # ie.: "content/some-post/img"
@@ -241,8 +245,9 @@ pluralizeListTitles = false
     minWidth = 640
 
 [taxonomies]
+  category = "categories"
   tag = "tags"
-  categories = "categories"
+  archive = "archives"
 
 [menu]
     [[menu.main]]
@@ -254,3 +259,4 @@ pluralizeListTitles = false
         name = "Servers"
         url = "/servers/"
         weight = 3
+

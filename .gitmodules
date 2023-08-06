@@ -1,15 +1,18 @@
 [submodule "themes/binario"]
-	path = themes/binario
-	url = https://github.com/vimux/binario
+    path = themes/binario
+    url = https://github.com/vimux/binario
 [submodule "themes/holy"]
-	path = themes/holy
-	url = https://github.com/serkodev/holy.git
+    path = themes/holy
+    url = https://github.com/serkodev/holy.git
 [submodule "themes/lotusdocs"]
-	path = themes/lotusdocs
-	url = https://github.com/colinwilson/lotusdocs
+    path = themes/lotusdocs
+    url = https://github.com/colinwilson/lotusdocs
 [submodule "themes/ramium"]
-	path = themes/ramium
-	url = https://github.com/rafed/ramium.git
+    path = themes/ramium
+    url = https://github.com/rafed/ramium.git
 [submodule "themes/color-your-world"]
-	path = themes/color-your-world
-	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+    path = themes/color-your-world
+    url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "themes/capsule"]
+    path = themes/capsule
+    url = https://github.com/sudorook/capsule
