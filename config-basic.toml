@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "NakSquad"
 languageCode = "en-us"
-theme = "holy"
+theme = "binario"
 paginate = "10"
 pluralizeListTitles = false
 [Params]
