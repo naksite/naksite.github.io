@@ -71,3 +71,20 @@
 - Who let you in here?  How do you know about this place?  SECURITY!
 **** Technical
 - [[/PRESETS/SnyOps_ArmaMen.html][10001110101]]
+** NAK
+*** Rules
+ - Visit our website https://naksquad.net for a complete listing of the rules or ask a moderator or admin for clarification.
+*** HTML File Import
+ 1. Start ArmA3 Launcher
+ 2. Click Mods
+ 3. Click Unload All
+ 4. Select Presets in upper right
+ 5. Click Import at the bottom
+ 6. Find the html file you downloaded from here
+
+**
+If a link leads to a collection with no number, there probably isn't a collection for that link yet.
+
+If you notice any other issues, let me know.
+
+- Sny
