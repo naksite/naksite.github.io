@@ -1,5 +1,5 @@
 ---
-title: "#2 Public Modded Zeus"
+title: "NAK#2 Public Modded Zeus"
 date: 2023-08-06T01:32:07-05:00
 categories:
   - "servers"
@@ -23,7 +23,7 @@ mathjax: false
 related: false
 draft: false
 ---
-[See the main server for more details and rules](https://www.naksquad.net/servers/ourservers/)
+[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 ## Mods
 

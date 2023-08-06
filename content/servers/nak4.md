@@ -24,7 +24,7 @@ mathjax: false
 related: false
 draft: false
 ---
-[See the main server for more details and rules](https://www.naksquad.net/servers/ourservers/)
+[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 ## Mods
 

@@ -1,49 +1,23 @@
-[[main]]
-    name = "Servers"
-    weight = 30
-[[main]]
-    parent = "Servers"
-    name = "#1 Altis Invade and Annex"
-    url = "/servers/nak1"
-    weight = 31
-[[main]]
-    parent = "Servers"
-    name = "#2 Public Modded Zeus"
-    url = "/servers/nak2"
-    weight = 32
-[[main]]
-    parent = "Servers"
-    name = "#3 Tanoa Quicksilver"
-   url = "/servers/nak3"
-    weight = 33
-[[main]]
-   parent = "Servers"
-    name = "#4 Public Vanilla Zeus"
-   url = "/servers/nak4"
-   weight = 34
 #[[main]]
-#   parent = "Submenu"
-#    name = "Lorem dolor"
-#    identifier = "sub-lorem"
-#   weight = 35
+#    name = "Servers"
+#    weight = 30
 #[[main]]
-#   parent = "Submenu"
-#    name = "Phasellus magna"
-#    weight = 36
+#    parent = "Servers"
+#    name = "#1 Altis Invade and Annex"
+#    url = "/servers/nak1"
+#    weight = 31
 #[[main]]
-#    parent = "Submenu"
-#    name = "Magna phasellus"
-#    weight = 37
-#[main]]
-#    parent = "Submenu"
-#    name = "Etiam nisl"
-#   weight = 38
-#[main]]
-#    parent = "Submenu"
-#   name = "Veroeros feugiat"
-#   identifier = "sub-veroeros"
-#   weight = 39
-#[main]]
-#   parent = "Dropdown"
-#    name = "Veroeros feugiat"
-#   weight = 40
+#    parent = "Servers"
+#    name = "#2 Public Modded Zeus"
+#   url = "/servers/nak2"
+#    weight = 32
+#[[main]]
+#    parent = "Servers"
+#   name = "#3 Tanoa Quicksilver"
+#   url = "/servers/nak3"
+#    weight = 33
+#[[main]]
+#   parent = "Servers"
+#    name = "#4 Public Vanilla Zeus"
+#  url = "/servers/nak4"
+#   weight = 34
