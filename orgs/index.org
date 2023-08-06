@@ -15,29 +15,25 @@
 * NAK Squad
 ** Servers
 *** #1 Altis Invade and Annex
-- Huge Allowed Mods List
+-[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
 - Events
-*** #2 Public Vanilla Zeus
-- Huge Allowed Mods List
-- Recommended Mods
-- Events
-    - Saturday @ 5pm Eastern/US
-      - Runs 2-3 hours depending on the size and complexity of the mission.
-    - Required Mods for event
-    - Special Rules for event
-      - Please arrive early enough to get your loadout and team assignments 30-45 minutes if you are new.
-*** #3 Tanoa QuickSilver
-- Huge Allowed Mods List
-- Events
-  - Tactical Tuesday
-    - Tuesdays @ 7pm Eastern/US
-      - runs until server restart at 9pm
-  - Recommended Mods for event
-  - Special Rules for event
-    - Please do not run RHS as it breaks sound for others on this server.
-*** #4 Public Modded Zeus
+  - Combined Operations
+    - Friday @ 9pm Eastern/US
+      - runs until we run out of players late into the night
+      - Any allowed mods
+      - Special Rules for event
+        - If you are joining the event and in the event channel, you need to follow the event commanders orders.
+        - If that's not something you want to do, you're free to use the other channels and the server as you see fit within the normal NAK rules.
+        - CAS will not be allowed to fire without being directed by JTAC if one is present.
+**** Technical
+- 108.61.9.162:2302
+*** #2 Public Modded Zeus
 - Required Mods
+  -[[ [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687]]][Collection]] -or- [[/PRESETS/Nak_Unsung_Req.html][HTML]]
 - Optional Mods
+  -[[ [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384]]][Collection]] -or- [[/PRESETS/Nak_Unsung_Opt.html][HTML]]
+- Sny's Recommended Mods
+  - [[/PRESETS/Nak_Unsung_Sny.html][HTML]]
 - Events
   - NAK Tac
     - Day and time to be determined
@@ -46,5 +42,32 @@
       - There are qualifications to join the unit.
       - There is training for specific roles before you will be allowed to take them.
       - While we're still here to have a lot of fun, expectations are higher than normal.
+**** Technical
+- 144.48.106.187:2321
+*** #3 Tanoa QuickSilver
+-[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
+- Events
+  - Tactical Tuesday
+    - Tuesdays @ 7pm Eastern/US
+      - runs until server restart at 9pm
+  - Recommended Mods for event
+  - Special Rules for event
+    - Please do not run RHS as it breaks sound for others on this server.
+**** Technical
+- 104.243.32.98:2402
+*** #4 Public Vanilla Zeus
+-[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
+- Sny's Recommended Mods
+  - [[/PRESETS/Nak_Zeus_Vanilla.html][HTML]]
+- Events
+    - Saturday @ 5pm Eastern/US
+      - Runs 2-3 hours depending on the size and complexity of the mission.
+    - Required Mods for event
+    - Special Rules for event
+      - Please arrive early enough to get your loadout and team assignments 30-45 minutes if you are new.
+**** Technical
+- 72.5.195.213:2302
 *** #5 SnyOps
 - Who let you in here?  How do you know about this place?  SECURITY!
+**** Technical
+- [[/PRESETS/SnyOps_ArmaMen.html][10001110101]]
