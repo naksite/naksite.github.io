@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/nak1/</loc>
+    <loc>/servers/nak1/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>/post/nak2/</loc>
+    <loc>/servers/nak2/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>/post/nak3/</loc>
+    <loc>/servers/nak3/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>/post/nak4/</loc>
+    <loc>/servers/nak4/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/about/about/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/altis/</loc>
@@ -38,6 +44,9 @@
     <loc>/categories/events/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
     <loc>/tags/invade-and-annex/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
@@ -59,13 +68,13 @@
     <loc>/tags/naktac/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
     <loc>/tags/quicksilver/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/server/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/servers/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/categories/servers/</loc>
@@ -88,5 +97,11 @@
   </url><url>
     <loc>/tags/zeus/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/posts/newsite/</loc>
+    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on NakSquad</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in Hugo on NakSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 01:32:07 -0500</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>Become part of the NAK Community.
+ NAK Squad has been running gaming servers since 2016. Although much of our focus is on Arma 3, we explore new games as they are released with the intention of expanding the NAK community.
+We view NAK Squad as a family of members who are distributed all around the world. Our goal is to provide and promote a gaming environment that is safe for everyone.</description>
+    </item>
+    
+  </channel>
+</rss>
