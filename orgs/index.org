@@ -15,7 +15,7 @@
 * NAK Squad
 ** Servers
 *** #1 Altis Invade and Annex
--[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
+- [[https://www.naksquad.net/mods/approved-mods/][Huge Allowed Mods List]]
 - Events
   - Combined Operations
     - Friday @ 9pm Eastern/US
@@ -29,9 +29,10 @@
 - 108.61.9.162:2302
 *** #2 Public Modded Zeus
 - Required Mods
-  -[[ [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687]]][Collection]] -or- [[/PRESETS/Nak_Unsung_Req.html][HTML]]
+  - [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687][Collection]]
+-or- [[/PRESETS/Nak_Unsung_Req.html][HTML]]
 - Optional Mods
-  -[[ [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384]]][Collection]] -or- [[/PRESETS/Nak_Unsung_Opt.html][HTML]]
+  - [[https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384][Collection]] -or- [[/PRESETS/Nak_Unsung_Opt.html][HTML]]
 - Sny's Recommended Mods
   - [[/PRESETS/Nak_Unsung_Sny.html][HTML]]
 - Events
@@ -45,7 +46,7 @@
 **** Technical
 - 144.48.106.187:2321
 *** #3 Tanoa QuickSilver
--[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
+- [[https://www.naksquad.net/mods/approved-mods/][Huge Allowed Mods List]]
 - Events
   - Tactical Tuesday
     - Tuesdays @ 7pm Eastern/US
@@ -56,7 +57,7 @@
 **** Technical
 - 104.243.32.98:2402
 *** #4 Public Vanilla Zeus
--[[ [[https://www.naksquad.net/mods/approved-mods/]]][Huge Allowed Mods List]]
+- [[https://www.naksquad.net/mods/approved-mods/][Huge Allowed Mods List]]
 - Sny's Recommended Mods
   - [[/PRESETS/Nak_Zeus_Vanilla.html][HTML]]
 - Events
@@ -71,3 +72,20 @@
 - Who let you in here?  How do you know about this place?  SECURITY!
 **** Technical
 - [[/PRESETS/SnyOps_ArmaMen.html][10001110101]]
+** NAK
+*** Rules
+ - Visit our website https://naksquad.net for a complete listing of the rules or ask a moderator or admin for clarification.
+*** HTML File Import
+ 1. Start ArmA3 Launcher
+ 2. Click Mods
+ 3. Click Unload All
+ 4. Select Presets in upper right
+ 5. Click Import at the bottom
+ 6. Find the html file you downloaded from here
+
+**
+If a link leads to a collection with no number, there probably isn't a collection for that link yet.
+
+If you notice any other issues, let me know.
+
+- Sny
