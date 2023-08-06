@@ -27,16 +27,15 @@ mathjax: false
 related: false
 draft: false
 ---
-
-# Mods
+[See the main server for more details and rules](https://www.naksquad.net/servers/ourservers/)
+<!-- more -->
+## Mods
 
 [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
 
-> 108.61.9.162:2302
+## Events
 
-# Events
-
-> Combined Operations
+# Combined Operations
 - Friday @ 9pm Eastern/US
 - Runs until we run out of players late into the night
 - Any allowed mods
@@ -45,3 +44,5 @@ draft: false
 - CAS will not be allowed to fire without being directed by JTAC.
 - If there is no JTAC, CAS will be allowed to fire on targets of opportunity, but will be expected to avoid friendly fire.
 - If you are not taking part in the even, you are free to do as you please, but you may be asked to move to another channel if the event commander needs to speak to the event channel.
+
+> 108.61.9.162:2302
