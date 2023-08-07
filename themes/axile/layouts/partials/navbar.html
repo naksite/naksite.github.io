@@ -2,9 +2,18 @@
   <a href="{{ .Site.BaseURL }}" id="nav-name">{{ .Site.Title }}</a>
   <button class="nav-menu-close" onclick="navMenuToggle();">Close</button>
   <ul id="nav-items">
+    {{ if .Site.Params.tagmenu }}
     <li>
       <a href="{{ .Site.BaseURL }}/tags/"><button>Tags</button></a>
     </li>
+    {{ end }}
+    {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}">
+          <button>{{ .Name }}</button>
+        </a>
+      </li>
+    {{ end }}
     {{ if .Site.Params.navbar }}
       <li><button id="nav-more">More</button></li>
       <div class="nav-more-content" style="display: none">

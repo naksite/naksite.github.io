@@ -1,6 +1,7 @@
 ---
 title: "New Site"
 date: 2023-08-06
+tags: ["news"]
 draft: false
 ---
 

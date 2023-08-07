@@ -21,6 +21,8 @@ theme = "axile"
 [params.navbar]
 patreon = "https://patreon.com/naksquad"
 
+[params.tagmenu]
+showtags = true
 
 [params.navbarButton]
 Donate = "https://patreon.com/naksquad"

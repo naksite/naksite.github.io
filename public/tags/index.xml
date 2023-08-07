@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>nak</title>
-      <link>https://axile.netlify.app/tags/nak/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>https://axile.netlify.app/tags/nak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>naksquad</title>
       <link>https://axile.netlify.app/tags/naksquad/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
@@ -49,6 +40,15 @@
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>https://axile.netlify.app/tags/servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://axile.netlify.app/tags/news/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axile.netlify.app/tags/news/</guid>
       <description></description>
     </item>
     

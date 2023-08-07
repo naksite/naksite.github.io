@@ -2,7 +2,7 @@
 title: "Nak Squad"
 date: 2023-08-06T01:32:07-05:00
 draft: false
-tags: ["about", "nak", "naksquad"]
+tags: ["about", "naksquad"]
 ---
 
 > Become part of the NAK Community.

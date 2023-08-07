@@ -4,10 +4,12 @@ date: 2023-08-06T01:32:07-05:00
 tags:
   - "servers"
   - "events"
+menu: 
 draft: false
+showdates: true
 ---
 > [See the main server for complete server descriptions and rules](https://www.naksquad.net/servers/ourservers/)
-
+<!--more-->
 # NAK#1 Altis Invade and Annex
 
 ## Mods
