@@ -1,5 +1,5 @@
 ---
-title: Servers
+title: Home
 menu: main
 weight: 20
 ---

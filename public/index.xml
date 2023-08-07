@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nak Squad on Naksquad</title>
+    <link>https://axile.netlify.app/</link>
+    <description>Recent content in Nak Squad on Naksquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 01:32:07 -0500</lastBuildDate><atom:link href="https://axile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Info</title>
+      <link>https://axile.netlify.app/servers/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>https://axile.netlify.app/servers/</guid>
+      <description>See the main server for complete server descriptions and rules
+ NAK#1 Altis Invade and Annex Mods Huge Allowed Mods List
+Sny&amp;rsquo;s Mods HTML
+Events Combined Operations  Friday @ 9pm Eastern/US Runs late into the night, until we run out of players Any allowed mods If you are joining the event you must be in the event channel in teamspeak. You must follow the event commanders orders during the event.</description>
+    </item>
+    
+    <item>
+      <title>New Site</title>
+      <link>https://axile.netlify.app/posts/newsite/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axile.netlify.app/posts/newsite/</guid>
+      <description>Welcome to the new server info site.
+This will contain both information and news about the Nak servers, events, mods and highlight and link to any changes that relate to using Nak servers.
+If you see anything broken please let me know,
+ Sny  </description>
+    </item>
+    
+  </channel>
+</rss>
