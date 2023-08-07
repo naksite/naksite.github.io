@@ -4,7 +4,7 @@ date: 2023-08-06T01:32:07-05:00
 tags:
   - "servers"
   - "events"
-menu: 
+menu:
 draft: false
 showdates: false
 ---
@@ -43,6 +43,7 @@ showdates: false
 ### NakTac
 - Event Days and Time to be Determined
 - Required Mods for event TBD
+- [Test mods](/PRESETS/Nak_Tac_Req.html)
 - There are special rules for this event
 - There are qualifications to join the unit.
 - There is training for specific roles before you will be allowed to take them.
