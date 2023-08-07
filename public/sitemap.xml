@@ -5,16 +5,11 @@
     <loc>https://axile.netlify.app/posts/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axile.netlify.app/tags/about/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>https://axile.netlify.app/tags/events/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
     <loc>https://axile.netlify.app/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+    <priority>0</priority>
   </url><url>
-    <loc>https://axile.netlify.app/tags/naksquad/</loc>
+    <loc>https://axile.netlify.app/tags/events/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>https://axile.netlify.app/servers/</loc>
@@ -26,7 +21,10 @@
     <loc>https://axile.netlify.app/tags/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>https://axile.netlify.app/posts/newsite/</loc>
+    <loc>https://axile.netlify.app/posts/230806-newhtmls/</loc>
+    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axile.netlify.app/posts/230806-newsite/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axile.netlify.app/tags/news/</loc>

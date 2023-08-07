@@ -19,7 +19,11 @@
                     {{ end }}
                 </div>
                 <div class="summary">
-                    {{ .Summary }}
+                    {{ with .Description }}
+                        {{ . }}
+                    {{ else }}
+                        {{ .Summary }}
+                    {{ end }}
                 </div>
             </div>
         </a>
