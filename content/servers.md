@@ -6,10 +6,10 @@ tags:
   - "events"
 menu: 
 draft: false
-showdates: true
+showdates: false
 ---
-> [See the main server for complete server descriptions and rules](https://www.naksquad.net/servers/ourservers/)
 <!--more-->
+> [See the main server for complete server descriptions and rules](https://www.naksquad.net/servers/ourservers/)
 # NAK#1 Altis Invade and Annex
 
 ## Mods
