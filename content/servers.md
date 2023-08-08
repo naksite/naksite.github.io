@@ -4,7 +4,8 @@ date: 2023-08-06T01:32:07-05:00
 tags:
   - "servers"
   - "events"
-menu:
+menu: main
+weight: 30
 draft: false
 showdates: false
 ---

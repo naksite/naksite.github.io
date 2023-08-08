@@ -15,7 +15,7 @@ tags:
   - "combined operations"
   - "coop"
   - "co-op"
-menu: main
+menu: servers
 comments: true
 authorbox: false
 toc: false
@@ -26,15 +26,18 @@ draft: false
 ---
 [See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
-## Mods
+# NAK#1 Altis Invade and Annex
 
+## Mods
 [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
+## Sny's Mods
+[HTML](/PRESETS/Nak_Altis_Sny.html)
 
 ## Events
 
-# Combined Operations
+### Combined Operations
 - Friday @ 9pm Eastern/US
-- Runs late into the night, until we run out of players 
+- Runs late into the night, until we run out of players
 - Any allowed mods
 - If you are joining the event you must be in the event channel in teamspeak.
 - You must follow the event commanders orders during the event. If that is not something you wish to do, you are free to use the other channels and the server as you see fit within the normal NAK rules.

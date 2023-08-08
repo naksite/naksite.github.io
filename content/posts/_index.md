@@ -1,6 +1,6 @@
 ---
 title: News
-menu: 
+menu: main
 tags: [ "news","events" ]
 weight: 20
 ---
