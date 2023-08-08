@@ -1,0 +1,29 @@
+<!-- Custom or default footer text -->
+{{ if (templates.Exists "partials/custom/footer-text.html") }}
+  {{ partial "custom/footer-text" . }}
+{{ else }}
+
+  {{ with .Site.Params.footerText }}
+
+    {{ $processedFooterText := slice }}
+
+    {{ range . }}
+      {{ $currentParagraph := printf `<p>%s</p>` (. | markdownify | emojify) }}
+      {{ $processedFooterText = $processedFooterText | append $currentParagraph }}
+    {{ end }}
+
+    {{ delimit $processedFooterText "" }}
+
+  {{ end }}
+
+{{ end }}
+<footer>
+  <hr />
+  <br />
+  <div class="content">
+    {{ if .Site.Params.icon }}
+    <img src="{{ .Site.Params.icon }}" alt="Logo" />
+    {{ end }}
+    <p class="btm-txt">© - {{ .Site.Title }}</p>
+  </div>
+</footer>

@@ -1,0 +1,49 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "**NAKSite:** Join us at "
+  button:
+    contents: "NakSquad.net"
+    url: "https://www.naksquad.net"
+items:
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 3
+  - type: cta
+    contents: Are you ready to join us?
+    button:
+      contents: Get Teamspeak
+      url: "https://www.teamspeak.com/en/downloads/"
+  - type: heading
+    #items_per_row: 1
+    #items:
+    #- title: About NAK
+    heading: About NAK
+    contents: > 
+      NAK Squad has been running gaming servers for several years now. 
+      Although we have expanded into other games, our roots are in Arma. 
+      Our community has over 16 years of experience within the Battlefield franchise. 
+      Originally formed to play Battlefield 1942, the community has grown to become one of the largest in the world. 
+      NAK currently has over 100,000 registered members with an average of 500 active players per day.
+#  - type: highlights
+#    items_per_row: 2
+#    items:
+#    - title: This Is Important
+#      icon: fa-paper-plane
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#    - title: Also Important
+#      icon: fa-pencil-alt
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#    - title: Probably Important
+#      icon: fa-wrench
+#      content: >
+#        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+#        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+#  - type: heading
+#    heading: A gigantic heading you can use for whatever
+#    contents: With a much smaller subtitle hanging out just below it

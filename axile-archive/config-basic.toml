@@ -1,0 +1,264 @@
+baseurl = "/"
+title = "NakSquad"
+languageCode = "en-us"
+theme = "hugo-arcana"
+paginate = "5"
+pluralizeListTitles = false
+[Params]
+  description = "Naksquad.net" # Site Description. Used in meta description
+  # Footer text, Each value will become a paragraph, Keep it as an array
+  footerText = [ "Generated with [Hugo](https://gohugo.io) using the [Color Your World](https://gitlab.com/rmaguiar/hugo-theme-color-your-world) theme." ]
+
+  author      = "John Doe"
+  authorDesc  = "Some indescribable horror."
+  #authorbox = true # Show authorbox at bottom of single pages if true
+
+  hasNoscriptNotice = true
+  opengraph = false # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = false # Enable Twitter Cards if true
+  columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
+  mainSections = ["posts"] # Set main page sections
+  dateFormat = "January 02, 2006" # Change the format of dates
+  colorTheme = "dark-blue" # dark-green, dark-blue, dark-red, dark-violet
+  #customCSS = ["css/custom.css"] # Include custom CSS files
+  #customJS = ["js/custom.js"] # Include custom JS files
+  mainMenuAlignment = "left" # Align main menu (desktop version) to the right side
+  showDate = true # make false if dont want to show date for evergeen articles
+  math = false # best to enable this in the front matter of a page
+  #comments = true # Enable comments for all site pages
+  #related = false # Enable Related content for single pages
+  #relatedMax = 5 # Set the maximum number of elements that can be displayed in related block. Optional
+  #mathjax = true # Enable MathJax for all site pages
+  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
+  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
+  #hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
+  tagsInHome = 3     # set zero to not show in home page
+  sectionsInHome = 3  # set zero to not show in home page
+  paginator_pages = "5"
+  tagsLimit = 20
+  paginatePostsPerPage = 5
+  paginateTagsPerPage = 6
+
+darkmode = "light"
+
+  # Default path for images in posts
+  # ie.: "content/some-post/img"
+  # Can also be set PER PAGE
+  # It can be used to reduce repetition
+  # There's no default value
+  imgPath = "img"
+  
+  # Default classes for markup image 
+  # Modifies the default behavior of images placed via markdown
+  # Can also be set PER PAGE via front matter
+  # Available classes are: border and borderless
+  # There's no default value
+  markupImgClass = "borderless"
+  
+  # This will append a separator (of your choice) along the site title to your <title>
+  # ie.: | ❚ - – — • ⚫
+  # You can disabled it PER PAGE by using "disableTitleSeparator" at front
+  # matter or disable it entirely by commenting the line below
+  titleSeparator = "|"
+  
+  [params.search]
+  
+    # Enable search form (at the post list)
+    # The default value is false
+    enable = true
+  
+    # Limit search results
+    # The default value is 30
+    maxResults = 15
+    
+    # Limit seach field input and pattern matching
+    minLength = 2   # Default is 3
+    maxLength = 42  # Default is 32
+    
+    # Optional placeholder for search field
+    placeholder = "ie.: lorem ipsum"
+    
+    # Stop word filter list
+    # Can also be set PER PAGE via front matter
+    # There's no default value
+    stopWords = [ "a", "an", "and", "in", "the", "to", "was", "were", "with" ]
+
+  [params.style]
+  
+    # Disable the use of system settings (prefers-color-scheme)
+    # Can be used as a workaround for Chrome on Linux
+    # (Issue 998903: Dark Gtk theme does not affect prefers-color-scheme media query)
+    # The default is false
+    ignoreSystemSettings = false
+  
+    # Use an icon or text for footnote return links
+    # The default is false
+    hasIconAsFootnoteReturnLink = true
+    
+    # For the social shortcode
+    # Use flexbox (with flex-grow) or grid (equal width)
+    # The default is false
+    socialIsFlex = false
+    
+    # Keep anchor links hidden until it's focused/hovered
+    # They will always be visible in mobile devices, regardless the option
+    # The default is false
+    hideAnchors = true
+
+    # CSS animation transition when changing colors
+    # The default is ".5s ease"
+    changeTransition = ".3s ease"
+
+    # Dark mode as default
+    # User preferences (site/system settings) will still have priority over it
+    # The default is false
+    isDark = true
+
+    # Accent colors for dark and light mode respectively
+    darkAccent   = "#1dbc91" # Default is "#1dbc91"
+    lightAccent  = "#1f676b" # Default is "#1f676b"
+
+    # More colors, pick as many as you want (not really sure if there's a limit)
+    # Apparently these may not show up on every modern browser (ie.: Firefox)
+    # There's no default value. Used here just as example
+    presets = [ "#1f676b", "#f3a530", "#902b37", "#1dbc91", "#754e85", "#7fc121", "#a8314a", "#ff7433", "#3e6728", "#c063bd" ]
+  
+  [params.notFound]
+    title         = "Page not found"
+    description   = "This page was not found."
+    paragraph     = "Nothing to see here, buddy."
+
+  [params.social.centralized]
+  facebook      = [ "<username>", "Zuckerburg" ]
+  flickr        = [ "<username>" ]
+  github        = [ "<username>" ]
+  gitlab        = [ "<username>" ]
+  instagram     = [ "<username>" ]
+  keybase       = [ "<username>" ]
+  linkedin      = [ "<username>" ]
+  medium        = [ "<username>" ]
+  reddit        = [ "<username>" ]
+  snapchat      = [ "<username>" ]
+  soundcloud    = [ "<username>" ]
+  stackOverflow = [ "<username>" ]
+  strava        = [ "<username>" ]
+  telegram      = [ "<username>" ]
+  twitch        = [ "<username>" ]
+  twitter       = [ "<username>", "@birb" ]
+  vimeo         = [ "<username>" ]
+  whatsapp      = [ "<number>" ]
+  xing          = [ "<username>" ]
+  youtube       = [ "<channelid>" ]
+  #entry         = [ "username", "label (optional)" ]
+  
+  # The "entry" here IS important. It's used to load the data.
+
+[params.social.decentralized]
+  [params.social.decentralized.element]
+    1 = [ "https://app.element.io/#/user/<username>:matrix.org", "matrix.org" ]
+    #entry = [ "full url", "label (required)" ]
+    
+  [params.social.decentralized.funkwhale]
+    1 = [ "https://open.audio/<username>", "open.audio" ]
+    
+  [params.social.decentralized.mastodon]
+    1 = [ "https://mastodon.social/<username>", "mastodon.social" ]
+    2 = [ "https://mastodon.too/<username>", "mastodon.too" ]
+    3 = [ "https://yet.another.one/<username>", "yet.another.one" ]
+    
+  [params.social.decentralized.matrix]
+    1 = [ "https://matrix.to/#/<username>:matrix.org", "matrix.org" ]
+    2 = [ "https://matrix.to/#/<username>:other.org", "other.org" ]
+    
+  [params.social.decentralized.peertube]
+    1 = [ "https://peertube.something/accounts/<username>", "peertube.something" ]
+    
+  [params.social.decentralized.pixelfed]
+    1 = [ "https://pixelfed.social/<username>", "pixelfed.social" ]
+    
+  # The "entry" here ISN'T important. It's used for nothing.
+
+  [params.contact]
+
+  # formspree.io Form ID
+  formspreeFormId = "example"
+  
+  # Autocomplete [on/off] and min character length for message
+  autoComplete      = false # Default is false
+  messageMinLength  = 140   # Default is 140
+  
+  # Subject
+  # You can set a single value below (and it will cease to be a dropdown),
+  # BUT KEEP IT AS AN ARRAY
+  # It can also be disabled entirely (and it will turn into a text field)
+  subject = [ 'Just saying "hi"', "I know what you did last winter", "... Is that a sloth?", "お前はもう死んでいる。" ]
+
+  # Text placeholders. As usual, comment the lines if you don't want use them
+  # The "subject" below will only be used if the "subject" above doesn't exist (ie.: commented/deleted)
+  [params.contact.placeholder]
+    name    = "Jane Doe"
+    email   = "janedoe@example.com"
+    subject = 'Just saying "hi"'
+    message = "Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus."
+  
+[markup.highlight]
+  noClasses = false
+
+[imageProcessing]
+
+  # Enable auto resize
+  # Includes "img" and "figure" shortcodes
+  autoResize = true
+  
+  # Convert "tiff" files to the format below
+  # since the most used browsers don't support it
+  fallbackOptions = "jpeg"
+  
+  # Fill options for Open Graph and Twitter card images
+  # These images are also used in the Schema.org structured data
+  openGraphFillOptions = "1200x630"
+  twitterFillOptions = "1280x640"
+  
+  # Extra formats (along JPEG/PNG)
+  [[imageProcessing.extraFormats]]
+    formatOptions = "webp"
+    mediaType = "image/webp"
+    minVersion = "0.83"
+  
+  # Sizes at which images are resized
+  # Keep the sizes in descending order
+  # The smallest size will be used as the default image
+  [[imageProcessing.sizes]]
+    resizeOptions = "1280x"
+    descriptor = "1280w"
+    minWidth = 1280
+  
+  [[imageProcessing.sizes]]
+    resizeOptions = "960x"
+    descriptor = "960w"
+    minWidth = 960
+  
+  [[imageProcessing.sizes]]
+    resizeOptions = "640x q90"
+    descriptor = "640w"
+    minWidth = 640
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  archive = "archives"
+
+[menu]
+    [[menu.main]]
+        name = "Changes"
+        url = "/posts"
+        weight = 1
+   
+    [[menu.main]]
+        name = "Servers"
+        url = "/servers/"
+        weight = 3
+
+[outputs]
+home = ["HTML"]
