@@ -16,12 +16,8 @@ tags:
   - "coop"
   - "co-op"
 menu: servers
-comments: true
-authorbox: false
-toc: false
-tocOpen: false
-mathjax: false
-related: false
+showdates: false
+weight: 4
 draft: false
 ---
 [See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
@@ -44,7 +40,5 @@ Please arrive early enough to get your loadout and team assignments 30-45 minute
 > NAK#4 Public Vanilla Zeus \
  144.48.106.187:2321
 
-# NAK#5 SnyOps
-- Who let you in here? How do you know about this place? SECURITY!
-[10001110101](/PRESETS/SnyOps_ArmaMen.html)
+
 

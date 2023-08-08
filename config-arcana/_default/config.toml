@@ -40,17 +40,13 @@ copyright = "© Untitled. All rights reserved"
         [[params.footer.links]]
             header = "Links"
 
-        [[params.footer.links]]
-
         [[params.footer.links.links]]
             title = "Link1"
             url = "#"
 
-        [[params.footer.links]]
-
         [[params.footer.links.links]]
-            title = "Link2"
-            url = "#"
+            title = "Get Teamspeak"
+            url = "https://www.teamspeak.com/en/downloads/"
 
         [[params.footer.links]]
 
@@ -58,10 +54,12 @@ copyright = "© Untitled. All rights reserved"
             title = "Link3"
             url = "#"            
 
-        [[params.footer.links]]
-
         [[params.footer.links.links]]
             title = "Link4"
+            url = "#"            
+
+        [[params.footer.links.links]]
+            title = "Link5"
             url = "#"            
 
         [params.footer.contact_form]

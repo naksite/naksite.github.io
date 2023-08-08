@@ -16,12 +16,8 @@ tags:
   - "coop"
   - "co-op"
 menu: servers
-comments: true
-authorbox: false
-toc: false
-tocOpen: false
-mathjax: false
-related: false
+showdates: false
+weight: 1
 draft: false
 ---
 [See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)

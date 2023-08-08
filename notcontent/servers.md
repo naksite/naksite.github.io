@@ -4,7 +4,7 @@ date: 2023-08-06T01:32:07-05:00
 tags:
   - "servers"
   - "events"
-menu: main
+menu: 
 weight: 30
 draft: false
 showdates: false
@@ -92,6 +92,6 @@ Please arrive early enough to get your loadout and team assignments 30-45 minute
 
 > 144.48.106.187:2321
 
-# NAK#5 SnyOps
+# NAK#n SnyOps
 - Who let you in here? How do you know about this place? SECURITY!
 [10001110101](/PRESETS/SnyOps_ArmaMen.html)

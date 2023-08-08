@@ -503,10 +503,28 @@
         display: flex;
         padding-left: 0;
         margin-left: -8px;
+        a {
+            color: _palette(fg-bold);
+            border-bottom-color: transparentize(_palette(fg-bold), 0.75);
+
+            &:hover {
+                color: _palette(accent, fg);
+                border-bottom-color: transparent;
+            }
+        }
     }
 
 /* Links */
+    a {
+        color: _palette(fg-bold);
+        border-bottom-color: transparentize(_palette(fg-bold), 0.75);
 
+        &:hover {
+            color: _palette(accent, fg);
+            border-bottom-color: transparent;
+        }
+    }
+    
     ul.links {
         list-style: none;
         padding-left: 0;
