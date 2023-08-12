@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tanoa tuesday on NakSquad</title>
+    <link>/tags/tanoa-tuesday/</link>
+    <description>Recent content in tanoa tuesday on NakSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 01:32:07 -0500</lastBuildDate><atom:link href="/tags/tanoa-tuesday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAK#3 Tanoa Quicksilver</title>
+      <link>/servers/nak3/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/servers/nak3/</guid>
+      <description>See the main server for server description and rules
+Mods Huge Allowed Mods List
+Events Tactical Tuesday  Tuesdays @ 7pm Eastern/US Runs until server restart at 9pm  Required Mods for event  Any allowed mods Please do not run RHS as it breaks sound for others on this server.  Event rules  If you are joining the event you must be in the event channel in teamspeak. You must follow the event commanders orders during the event.</description>
+    </item>
+    
+  </channel>
+</rss>
