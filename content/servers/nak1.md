@@ -51,3 +51,18 @@ draft: false
 
 > NAK#1 Altis Invade and Annex \
 108.61.9.162:2302
+
+- Visit our website [naksquad.net](https://naksquad.net) for a complete listing of the rules or ask a moderator or admin for clarification.
+- To download a mod preset [HTML] file, hold down ALT while clicking on the [HTML] link.
+---
+- Start ArmA3 Launcher
+- click <i>Mods</i>
+- Click <i>Unload All</i>
+- Select <i>Presets</i> in upper right
+- Click <i>Import</i> at the bottom
+- Find the html file you downloaded from here
+---
+- If a link leads to a collection with no number, there probably isn't a collection for that link yet.
+- If you notice any other issues, let me know.
+---
+- Sny

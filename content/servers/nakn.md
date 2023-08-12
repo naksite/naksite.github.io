@@ -21,7 +21,7 @@ However, this does not mean there are no rules.\
 This is where I will be testing new mods and missions.
 
 <!-- more -->
-## Mods
+### Mods
 [HTML](/PRESETS/SnyOps_ArmaMen.html)
 
 ## Events
