@@ -53,8 +53,8 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 144.48.106.187:2321
 
 - Visit our website [naksquad.net](https://naksquad.net) for a complete listing of the rules or ask a moderator or admin for clarification.
-- To download a mod preset [HTML] file, hold down ALT while clicking on the [HTML] link.
 ---
+- To download a mod preset [HTML] file, hold down ALT while clicking on the [HTML] link.
 - Start ArmA3 Launcher
 - click <i>Mods</i>
 - Click <i>Unload All</i>
@@ -62,7 +62,5 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 - Click <i>Import</i> at the bottom
 - Find the html file you downloaded from here
 ---
-- If a link leads to a collection with no number, there probably isn't a collection for that link yet.
 - If you notice any other issues, let me know.
----
 - Sny
