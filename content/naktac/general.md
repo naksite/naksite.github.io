@@ -13,21 +13,21 @@ showdates: false
 weight: 10
 draft: false
 ---
-### General Information
+## General Information
 Some of the things you can expect.
 <!-- more -->
-## Voice Communication
+### Voice Communication
 1. Your microphone must be well adjusted and you must be able to communicate clearly. If you are in an environment with a lot of background noise, you may be required to use push-to-talk.
 2. Eating is not allowed during our operations, it is only allowed while your microphone is muted in the following situations:
  - Spectator
  - Pre-mission
  - Post-debrief
 
-## Roleplay
+### Roleplay
 1. Naktac is a light roleplay unit. This means that you are expected to maintain a level of immersion and realism, but you are not expected to take part in heavy roleplay roles if you wish not to. You are expected to act in a way that is consistent with the situation.
 2. Naktac believes in democracy and is a morally aligned organization. You are expected to act in a way that is consistent with those values.
 
-## Contracts
+### Contracts
 
 # General
 1. Your weapon must be holstered or unloaded while you are in base.
