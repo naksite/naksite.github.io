@@ -56,16 +56,16 @@ Some of the things you can expect.
 # Briefing
 1. The Operation Leader will conduct the briefing. The briefing will be conducted in the following order:
 - Mission Overview
-  What is the overall situation in area?
+:What is the overall situation in area?
 - Mission Objectives
-  What are we trying to accomplish?
+:What are we trying to accomplish?
 - Mission Rules
-  Are there any special rules that we need to follow?
+:Are there any special rules that we need to follow?
 - Mission Details
-  How are we going to accomplish our objectives?
+:How are we going to accomplish our objectives?
 - Mission Logistics
-  What gear do we have available?
-  What support do we have available?
+:What gear do we have available?
+:What support do we have available?
 - Questions
 2. All players must be present and listening during the briefing.
 3. All questions must wait until the question period. Do not interrupt the briefing, with questions or otherwise.
@@ -74,11 +74,13 @@ Some of the things you can expect.
 # Gear Check & Organization
 1. The gear check and organization phase lasts 5 minutes after the briefing.
 2. Each player should be aware of:
-- Their role
-- Their team
-- Their radio channels
-- Their vehicle if applicable
-- Their team's part in the mission
+```
+Their role
+Their team
+Their radio channels
+Their vehicle if applicable
+Their team's part in the mission
+```
 3. Each team leader should have each of their member's call out their:
 - Role
 - Ammo count
