@@ -56,16 +56,16 @@ Some of the things you can expect.
 # Briefing
 1. The Operation Leader will conduct the briefing. The briefing will be conducted in the following order:
 - Mission Overview
-:What is the overall situation in area?
+: What is the overall situation in area?
 - Mission Objectives
-:What are we trying to accomplish?
+: What are we trying to accomplish?
 - Mission Rules
-:Are there any special rules that we need to follow?
+: Are there any special rules that we need to follow?
 - Mission Details
-:How are we going to accomplish our objectives?
+: How are we going to accomplish our objectives?
 - Mission Logistics
-:What gear do we have available?
-:What support do we have available?
+: What gear do we have available?
+: What support do we have available?
 - Questions
 2. All players must be present and listening during the briefing.
 3. All questions must wait until the question period. Do not interrupt the briefing, with questions or otherwise.
@@ -108,16 +108,16 @@ Their team's part in the mission
 
 # Debriefing
 1. The Operation Leader will conduct the debriefing. The debriefing will be conducted in the following order:
-:Was the mission successful?
-:What went well?
-:What could have gone better?
-:What did we learn?
-:Each team leader will give a brief summary of their team's performance, including:
+: Was the mission successful?
+: What went well?
+: What could have gone better?
+: What did we learn?
+: Each team leader will give a brief summary of their team's performance, including:
 - What went well?
 - What could have gone better?
-:General feedback on the group's performance
-:Feedback for the mission maker
-:Staff will make any announcements
+: General feedback on the group's performance
+: Feedback for the mission maker
+: Staff will make any announcements
 2. All players must be present and listening during the debriefing.
 3. All feedback must wait until the general feedback period. Do not interrupt the debrief.
 
