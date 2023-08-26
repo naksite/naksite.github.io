@@ -6,13 +6,23 @@
     <description>Recent content in servers on NakSquad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Untitled. All rights reserved</copyright><atom:link href="/tags/servers/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/servers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Servers</title>
       <link>/servers/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/servers/</guid>
+      <description>changelog</description>
+    </item>
+    
+    <item>
+      <title>NakTac</title>
+      <link>/naktac/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/</guid>
       <description>changelog</description>
     </item>
     
