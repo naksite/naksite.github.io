@@ -159,14 +159,19 @@
         font-style: italic;
     }
 
-    p, ul, ol, dl, table, blockquote {
-        margin: 0 0 2em 0;
+    p, dl, table, blockquote {
+        margin: 0 0 1em 0;
     }
+
+    ul, ol {
+        margin: 0 0 0.25em 0;
+    }
+
 
     h1, h2, h3, h4, h5, h6 {
         color: inherit;
         font-weight: 600;
-        line-height: 1.75em;
+        line-height: 1.5em;
         margin-bottom: 1em;
 
         a {
@@ -180,24 +185,44 @@
         }
     }
 
+    h1 {
+        font-size: 2.25em;
+        letter-spacing: -0.025em;
+    }
+   
     h2 {
         font-size: 1.75em;
         letter-spacing: -0.025em;
     }
 
     h3 {
-        font-size: 1.2em;
+        font-size: 1.50em;
+        letter-spacing: -0.025em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+        letter-spacing: -0.025em;
+    }
+
+    h5 {
+        font-size: 1.10em;
+        letter-spacing: -0.025em;
+    }
+
+    h6 {
+        font-size: 1.00em;
         letter-spacing: -0.025em;
     }
 
     sub {
-        font-size: 0.8em;
+        font-size: 0.75em;
         position: relative;
         top: 0.5em;
     }
 
     sup {
-        font-size: 0.8em;
+        font-size: 0.75em;
         position: relative;
         top: -0.5em;
     }
@@ -479,22 +504,41 @@
 
 /* Lists */
 
-    ol {
-        list-style: decimal;
-        padding-left: 1.25em;
+    ol { /* ordered lists */
+        list-style: upper-roman;
+        padding-left: 0.25em;
+        margin-left: 1.0em; 
 
-        li {
+        ol { /* nested ordered lists */
+            list-style: lower-alpha;
             padding-left: 0.25em;
-        }
+            margin-left: 1.0em;}
+        ul { /* nested unordered lists */
+            list-style: circle;
+            padding-left: 0.25em;
+            margin-left: 1.0em;}
     }
 
-    ul {
+    ul { /* unordered lists */
+        /* list-style: "\26AB"; /* a unicode circle */
+        /* list-style: "\25CC"; /* a unicode medium hollow circle */
+        /* list-style: "\1F535"; /* a unicode large blue circle */
+        /* list-style: "\2F0A1"; /* a unicode checked box */
+        /* list-style: "\2713"; /* a unicode checkmark */
+        /* list-style: "\2713"; /* a unicode checkmark */        
+        /* list-style: "\7C"; /* a unicode vertical line */
         list-style: disc;
-        padding-left: 1em;
+        padding-left: 2.0em;
+        margin-left: 1.75em;
 
-        li {
-            padding-left: 0.5em;
-        }
+        ol { /* nested ordered lists */
+            list-style: decimal;
+            padding-left: 0.25em;
+            margin-left: 1.0em;}
+        ul { /* nested unordered lists */
+            list-style: circle;
+            padding-left: 0.25em;
+            margin-left: 1.0em;}
     }
 
     ul.tags {
@@ -502,7 +546,7 @@
         font-size: 1rem;
         display: flex;
         padding-left: 0;
-        margin-left: -8px;
+        margin-left: -12px;
         a {
             color: _palette(fg-bold);
             border-bottom-color: transparentize(_palette(fg-bold), 0.75);
