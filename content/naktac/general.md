@@ -106,16 +106,16 @@ Some of the things you can expect.
 
 # Debriefing
 1. The Operation Leader will conduct the debriefing. The debriefing will be conducted in the following order:
-- Was the mission successful?
+Was the mission successful?
+What went well?
+What could have gone better?
+What did we learn?
+Each team leader will give a brief summary of their team's performance, including:
 - What went well?
 - What could have gone better?
-- What did we learn?
-- Each team leader will give a brief summary of their team's performance, including:
-  - What went well?
-  - What could have gone better?
-- General feedback on the group's performance
-- Feedback for the mission maker
-- Staff will make any announcements
+General feedback on the group's performance
+Feedback for the mission maker
+Staff will make any announcements
 2. All players must be present and listening during the debriefing.
 3. All feedback must wait until the general feedback period. Do not interrupt the debrief.
 
