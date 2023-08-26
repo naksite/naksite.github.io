@@ -11,7 +11,7 @@ tags:
 menu: naktac
 showdates: false
 weight: 10
-draft: true
+draft: false
 ---
 ### General Information
 Some of the things you can expect.
