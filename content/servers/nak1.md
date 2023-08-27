@@ -20,7 +20,7 @@ showdates: false
 weight: 1
 draft: false
 ---
-[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
+[***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 ### Mods
 [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
@@ -30,15 +30,15 @@ draft: false
 
 ## Events
 
-# Combined Operations
+### Combined Operations
 - Friday @ 9pm Eastern/US
 - Runs late into the night, until we run out of players
 
-# Required Mods for event
+### Required Mods for event
 
 - Any allowed mods
 
-# Event rules
+### Event rules
 
 - If you are joining the event you must be in the event channel in teamspeak.
 - You must follow the event commanders orders during the event. If that is not something you wish to do, you are free to use the other channels and the server as you see fit within the normal NAK rules.

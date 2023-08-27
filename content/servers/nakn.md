@@ -16,16 +16,17 @@ draft: false
 
 This server is completely experimental and is subject to change at any time.\
 However, this does not mean there are no rules.\
-[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
+[***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 \
 This is where I will be testing new mods and missions.
 
 <!-- more -->
 ### Mods
+*(last updated 08-26-2023)* \
 [HTML](/PRESETS/SnyOps_ArmaMen.html)
 
 ## Events
 
 none scheduled.
 
-> NAK#n SnyOps \
+> NAK#n SnyOps

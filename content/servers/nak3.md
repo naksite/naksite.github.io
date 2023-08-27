@@ -23,23 +23,23 @@ showdates: false
 weight: 3
 draft: false
 ---
-[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
+[***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 ### Mods
 [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
 
 ## Events
 
-# Tactical Tuesday
+### Tactical Tuesday
 - Tuesdays @ 7pm Eastern/US
 - Runs until server restart at 9pm
 
-# Required Mods for event
+### Required Mods for event
 
 - Any allowed mods
 - Please do not run RHS as it breaks sound for others on this server.
 
-# Event rules
+### Event rules
 
 - If you are joining the event you must be in the event channel in teamspeak.
 - You must follow the event commanders orders during the event. If that is not something you wish to do, you are free to use the other channels and the server as you see fit within the normal NAK rules.

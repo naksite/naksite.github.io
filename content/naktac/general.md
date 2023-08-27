@@ -14,9 +14,6 @@ weight: 10
 draft: false
 ---
 Some of the things you can expect.
-- list
-- of
-- things
 <!-- more -->
 ## Voice Communication
 1. Your microphone must be well adjusted and you must be able to communicate clearly. If you are in an environment with a lot of background noise, you may be required to use push-to-talk.

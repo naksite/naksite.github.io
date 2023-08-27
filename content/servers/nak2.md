@@ -19,14 +19,15 @@ showdates: false
 weight: 2
 draft: false
 ---
-[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
+[***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 Please complete the [Zeus Survey](https://forms.gle/aHSDdsxMVZQkLcaZ7) for every zeus mission to take part in. \
 It helps to improve the quality of the missions and the enjoyment of the servers for everyone. \
 
-*This server has required mods.*
+***This server has required mods.***
 
 ### Required Mods
+*(last updated 08-26-2023)*
 <!-- [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) -or- [HTML](/PRESETS/Nak_Unsung_Req.html) -->
 [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3026334460) -or- [HTML](/PRESETS/Nak_Modded_Basic_Req.html)
 ### Optional Mods
@@ -36,14 +37,14 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 [HTML](/PRESETS/Nak_Modded_Basic_Sny.html)
 ## Events
 
-# NakTac
+### NakTac
 - Event Days and Time to be Determined
 
-# Required Mods for event
+### Required Mods for event
 - Required Mods for event TBD
 - [Test mods](/PRESETS/Nak_Tac_Req.html)
 
-# Event rules
+### Event rules
 
 - There are special rules for this event
 - There are qualifications to join the unit.

@@ -20,7 +20,7 @@ showdates: false
 weight: 4
 draft: false
 ---
-[See the main server for server description and rules](https://www.naksquad.net/servers/ourservers/)
+[***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
 **When joining from the launcher click the "Keep Current Loaded Mods" button not the top one.**
 
