@@ -6,7 +6,7 @@
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/servers/nak2/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/servers/nak3/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
@@ -21,7 +21,7 @@
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/servers/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
@@ -35,10 +35,25 @@
     <loc>/categories/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/co-op/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/coop/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/events/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/events/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/modded/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mods/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nak-tac/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/naktac/</loc>
@@ -56,34 +71,22 @@
     <loc>/tags/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/zeus/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/altis/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/cas/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
-    <loc>/tags/co-op/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
     <loc>/tags/combined-operations/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>/tags/coop/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/invade-and-annex/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/jtac/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>/tags/modded/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>/tags/mods/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>/tags/nak-tac/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/quicksilver/</loc>
@@ -99,9 +102,6 @@
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/tanoa-tuesday/</loc>
-    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
-  </url><url>
-    <loc>/tags/zeus/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/posts/230806-newhtmls/</loc>

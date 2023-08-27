@@ -9,11 +9,56 @@
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>co-op</title>
+      <link>/tags/co-op/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/co-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coop</title>
+      <link>/tags/coop/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/coop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>events</title>
       <link>/tags/events/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modded</title>
+      <link>/tags/modded/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mods</title>
+      <link>/tags/mods/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nak tac</title>
+      <link>/tags/nak-tac/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nak-tac/</guid>
       <description></description>
     </item>
     
@@ -45,6 +90,15 @@
     </item>
     
     <item>
+      <title>zeus</title>
+      <link>/tags/zeus/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zeus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>altis</title>
       <link>/tags/altis/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
@@ -63,29 +117,11 @@
     </item>
     
     <item>
-      <title>co-op</title>
-      <link>/tags/co-op/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/co-op/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>combined operations</title>
       <link>/tags/combined-operations/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/combined-operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coop</title>
-      <link>/tags/coop/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/coop/</guid>
       <description></description>
     </item>
     
@@ -104,33 +140,6 @@
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/jtac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modded</title>
-      <link>/tags/modded/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/modded/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mods</title>
-      <link>/tags/mods/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/mods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nak tac</title>
-      <link>/tags/nak-tac/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/nak-tac/</guid>
       <description></description>
     </item>
     
@@ -176,15 +185,6 @@
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/tanoa-tuesday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zeus</title>
-      <link>/tags/zeus/</link>
-      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
-      
-      <guid>/tags/zeus/</guid>
       <description></description>
     </item>
     

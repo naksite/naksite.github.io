@@ -1,10 +1,10 @@
 ---
 title: "NAK#2 Public Modded Zeus"
-date: 2023-08-06T01:32:07-05:00
+date: 2023-08-26
 categories:
   - "servers"
   - "events"
-tags: 
+tags:
   - "zeus"
   - "events"
   - "server"
@@ -24,14 +24,16 @@ draft: false
 Please complete the [Zeus Survey](https://forms.gle/aHSDdsxMVZQkLcaZ7) for every zeus mission to take part in. \
 It helps to improve the quality of the missions and the enjoyment of the servers for everyone. \
 
-*This server has required mods.* 
+*This server has required mods.*
 
 ### Required Mods
-[Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) -or- [HTML](/PRESETS/Nak_Unsung_Req.html)
+<!-- [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) -or- [HTML](/PRESETS/Nak_Unsung_Req.html) -->
+[Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3026334460) -or- [HTML](/PRESETS/Nak_Modded_Basic_Req.html)
 ### Optional Mods
-[Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) -or- [HTML](/PRESETS/Nak_Unsung_Opt.html)
+<!-- [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) -or- [HTML](/PRESETS/Nak_Unsung_Opt.html) -->
+[Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3006516384) -or- [HTML](/PRESETS/Nak_Modded_Basic_Opt.html)
 ### Sny's Recommended Mods
-[HTML](/PRESETS/Nak_Unsung_Sny.html)
+[HTML](/PRESETS/Nak_Modded_Basic_Sny.html)
 ## Events
 
 # NakTac
