@@ -31,12 +31,12 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 
 ## Events
 
-# NAK Ops
+### NAK Ops
 - Saturday @ 5pm Eastern/US
 - Runs 2-3 hours depending on the size and complexity of the mission. 
 - Please arrive early enough to get your loadout and team assignments 30-45 minutes if you are new.
 
-# Required Mods for event
+### Required Mods for event
 
  - CBA and Enhanced Movement are the only mods expected for the event.
  - Any of the allowed mods are allowed, but for the event you will likely be restricted to specific gear.
@@ -44,7 +44,7 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 
  [Recommended HTML for NakOps](/PRESETS/Nak_Ops_Vanilla.html)
 
-# Event rules
+### Event rules
 
 - To join the event you must be in the zeus #4 team speak channel(s).
 - This is a co-op mission with a command and leadership structure. 
