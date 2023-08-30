@@ -31,9 +31,9 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 ### Mods
 |**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Wed@7pm| BirdOps | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
+|Wed@7pm| BirdOps | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
 |Sat@5pm| NakOps | x | see modset manager | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
-|| **Vanilla** | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | x | 08-30-2023 |
+|| **Vanilla** | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/) | x | 08-30-2023 |
 
 ## Events
 
