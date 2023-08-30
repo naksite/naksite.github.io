@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NakTac on NakSquad</title>
+    <link>/naktac/</link>
+    <description>Recent content in NakTac on NakSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/naktac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Info</title>
+      <link>/naktac/general/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/general/</guid>
+      <description>Some of the things you can expect.
+Voice Communication  Your microphone must be well adjusted and you must be able to communicate clearly. If you are in an environment with a lot of background noise, you may be required to use push-to-talk. Eating is not allowed during our operations, it is only allowed while your microphone is muted in the following situations:   Spectator Pre-mission Post-debrief  Roleplay  This is a light roleplay unit.</description>
+    </item>
+    
+  </channel>
+</rss>
