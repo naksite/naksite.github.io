@@ -1,5 +1,5 @@
 ---
-title: "#4 Public Vanilla Zeus"
+title: "NAK#4 Public Vanilla Zeus"
 date: 2023-08-06T01:32:07-05:00
 categories:
   - "servers"

@@ -1,5 +1,5 @@
 ---
-title: "#1 Altis Invade and Annex"
+title: "NAK#1 Altis Invade and Annex"
 date: 2023-08-06T01:32:07-05:00
 categories:
   - "servers"
