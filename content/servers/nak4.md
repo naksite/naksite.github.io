@@ -26,8 +26,14 @@ draft: false
 
 Please complete the [Zeus Survey](https://forms.gle/aHSDdsxMVZQkLcaZ7) for every zeus mission to take part in. \
 It helps to improve the quality of the missions and the enjoyment of the servers for everyone.
+<!-- Table Generator https://www.tablesgenerator.com/markdown_tables -->
+<!-- Table data importer https://anywaydata.com/app# -->
 ### Mods
-[Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
+|**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Wed@5pm| BirdOps | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
+|Sat@5pm| NakOps | x | see modset manager | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
+|| **Vanilla** | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | x | 08-30-2023 |
 
 ## Events
 
@@ -41,14 +47,6 @@ It helps to improve the quality of the missions and the enjoyment of the servers
  - CBA and Enhanced Movement are the only mods expected for the event.
  - Any of the allowed mods are allowed, but for the event you will likely be restricted to specific gear.
  - Using other gear related mods will likely cause issues.
-
-<!-- Table Generator https://www.tablesgenerator.com/markdown_tables -->
-<!-- Table data importer https://anywaydata.com/app# -->
-### Mods
-|| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
-|---:|:---:|:---:|:---:|:---:|:---:|
-|| NakOps | x | see modset manager | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak4_nakops=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
-| Current--> | **Vanilla** | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | x | 08-30-2023 |
 
 ### Event rules
 

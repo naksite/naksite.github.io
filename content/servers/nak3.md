@@ -25,8 +25,13 @@ draft: false
 ---
 [***See the main server for server description and rules***](https://www.naksquad.net/servers/ourservers/)
 <!-- more -->
+<!-- Table Generator https://www.tablesgenerator.com/markdown_tables -->
+<!-- Table data importer https://anywaydata.com/app# -->
 ### Mods
-[Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/)
+|**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|| **Vanilla** | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | x | 08-30-2023 |
+|Tue@7pm| Tanoa Tac Tuesday | x | [Huge Allowed Mods List](https://www.naksquad.net/mods/approved-mods/) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak3_tanoatuesday=450814997,333310405,1638341685,2060770170*,2034363662*,1804716719*,1598735666*,1538673636*,772802287*,423344798*,2480263219*,2467589125*,825179978*,925018569*,570118882*,825172265*,1486853849*,2257686620*) | 08-30-2023 |
 
 ## Events
 
