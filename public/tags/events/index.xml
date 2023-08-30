@@ -67,20 +67,20 @@ Voice Communication  Your microphone must be well adjusted and you must be able 
     </item>
     
     <item>
+      <title>News</title>
+      <link>/posts/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>changelog</description>
+    </item>
+    
+    <item>
       <title>Servers</title>
       <link>/servers/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/servers/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/posts/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/</guid>
       <description>changelog</description>
     </item>
     
