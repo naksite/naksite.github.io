@@ -41,8 +41,8 @@ copyright = "© Untitled. All rights reserved"
             header = "Links"
 
         [[params.footer.links.links]]
-            title = "Link1"
-            url = "#"
+            title = "SnyOps Home"
+            url = "/"            
 
         [[params.footer.links.links]]
             title = "Get Teamspeak"
@@ -51,15 +51,15 @@ copyright = "© Untitled. All rights reserved"
         [[params.footer.links]]
 
         [[params.footer.links.links]]
-            title = "Link3"
-            url = "#"            
+            title = "NakSquad"
+            url = "https://naksquad.net"
 
         [[params.footer.links.links]]
-            title = "Link4"
-            url = "#"            
+            title = "Nak Forums"
+            url = "https://forums.naksquad.net"            
 
         [[params.footer.links.links]]
-            title = "Link5"
+            title = ""
             url = "#"            
 
         [params.footer.contact_form]
