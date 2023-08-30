@@ -1,1 +1,1 @@
-rm -rf public/* ; hugo ; git add . ; git commit -m "axile" ; git push
+rm -rf public/* ; hugo ; git add . ; git commit -m "pregen" ; git push
