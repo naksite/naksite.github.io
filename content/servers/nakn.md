@@ -1,5 +1,5 @@
 ---
-title: "#n SnyOps"
+title: "NAK#n SnyOps"
 date: 2023-08-06T01:32:07-05:00
 categories:
   - "servers"
@@ -21,8 +21,13 @@ However, this does not mean there are no rules.\
 This is where I will be testing new mods and missions.
 
 <!-- more -->
+<!-- Table Generator https://www.tablesgenerator.com/markdown_tables -->
+<!-- Table data importer https://anywaydata.com/app# -->
 ### Mods
-*(last updated 08-26-2023)* \
+|**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Current--> | **Base** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3026334460) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3006516384) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak2_basic=3026334460,3006516384*) | 08-26-2023 |
+
 [HTML](/PRESETS/SnyOps_ArmaMen.html)
 
 ## Events

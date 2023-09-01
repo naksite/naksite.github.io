@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>events</title>
+      <link>/tags/events/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naktac</title>
+      <link>/tags/naktac/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/naktac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servers</title>
+      <link>/tags/servers/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/servers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>modded</title>
       <link>/tags/modded/</link>
@@ -27,20 +54,20 @@
     </item>
     
     <item>
-      <title>naktac</title>
-      <link>/tags/naktac/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/naktac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>/tags/news/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>/tags/server/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/server/</guid>
       <description></description>
     </item>
     
@@ -72,38 +99,11 @@
     </item>
     
     <item>
-      <title>events</title>
-      <link>/tags/events/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>nak tac</title>
       <link>/tags/nak-tac/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/nak-tac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>server</title>
-      <link>/tags/server/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>servers</title>
-      <link>/tags/servers/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/servers/</guid>
       <description></description>
     </item>
     

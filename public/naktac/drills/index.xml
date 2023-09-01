@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Battle Drills on NakSquad</title>
+    <link>/naktac/drills/</link>
+    <description>Recent content in Battle Drills on NakSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/naktac/drills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Type-1 Battle Drills</title>
+      <link>/naktac/drills/type-1-drills/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/drills/type-1-drills/</guid>
+      <description>Battle Drill 1: Conducting an Assault  Battle Drill 1 is a simple offensive plan, with our side firing the first shot. The most planned battle drill is a simple assault or flanking assault. Nearly all assault plans are based off the guiding principle that once the assault begins, there is no fire without movement and there is no movement without fire. Violent action alone does not take ground in a meaningful way and neither does moving through it without dominating that territory.</description>
+    </item>
+    
+    <item>
+      <title>Type-2 Battle Drills</title>
+      <link>/naktac/drills/type-2-drills/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/drills/type-2-drills/</guid>
+      <description>Battle Drill 2: Reaction to Contact / Reaction to Enemy Fire  Battle Drill 2 is nearly identical, however the enemy initiated the firefight.  The most fundamental battle drill is reacting to enemy fire. It forms the basis for many of the other tactics covered in this guide, and these guidelines should be kept in mind when reading about them and applied as necessary.
+General Fundamental Principles  React immediately  Return fire Communicate Seek cover All at the same time!</description>
+    </item>
+    
+  </channel>
+</rss>
