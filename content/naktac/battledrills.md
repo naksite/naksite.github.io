@@ -24,33 +24,33 @@ The following battle drills cover the most common combat events to be encountere
 ## General Measures
 The following is a list of general measures an element can incorporate into their battle drills. This is organized into proactive measures for before contact is made and reactive measures when contact is taken.
 
-**Proactive**
-- Maintain constant 360 degree security / Situational Awareness
-- Limit exposure/stay in constant motion
-- Don't set patterns
-- Deny enemy use of overwatch/strategic terrain/advantages
-- Stick to shadows/use cover and concealment
-- Communicate ONLY important information.
-- Don't become complacent / relaxed in the field
-- Maintain good spacing
-- Leaders should blend into the element
-- Wear protective armor/use armored vehicles
-- Use optics to "outlook" the enemy
-- Use friendly assets for observation
-- Use small recon/security patrols
-- Have a plan and rehearse it
+- **Proactive**
+  - Maintain constant 360 degree security / Situational Awareness
+  - Limit exposure/stay in constant motion
+  - Don't set patterns
+  - Deny enemy use of overwatch/strategic terrain/advantages
+  - Stick to shadows/use cover and concealment
+  - Communicate ONLY important information.
+  - Don't become complacent / relaxed in the field
+  - Maintain good spacing
+  - Leaders should blend into the element
+  - Wear protective armor/use armored vehicles
+  - Use optics to "outlook" the enemy
+  - Use friendly assets for observation
+  - Use small recon/security patrols
+  - Have a plan and rehearse it
 
-**Reactive**
-- Take immediate cover/conceal your position
-- Obscure enemy field of view by using terrain to your advantage
-- Use smoke to obscure or distract enemy
-- Use whatever assets necessary to destroy the enemy. No honor in a gunfight
-- "Slice the pie" - reduce exposure
-- ID enemy location and return accurate and devastating fire
-- Maneuver on enemy & destroy him or break contact
-- Stay in the fight.  Use "Just enough medical".
-- Wounded troops apply "self aid" until fight is over
-- Reorganize/evacuate/treat casualties when suitable
+- **Reactive**
+  - Take immediate cover/conceal your position
+  - Obscure enemy field of view by using terrain to your advantage
+  - Use smoke to obscure or distract enemy
+  - Use whatever assets necessary to destroy the enemy. No honor in a gunfight
+  - "Slice the pie" - reduce exposure
+  - ID enemy location and return accurate and devastating fire
+  - Maneuver on enemy & destroy him or break contact
+  - Stay in the fight.  Use "Just enough medical".
+  - Wounded troops apply "self aid" until fight is over
+  - Reorganize/evacuate/treat casualties when suitable
 
 
 <!--
