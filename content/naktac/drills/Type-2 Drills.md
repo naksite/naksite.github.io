@@ -5,9 +5,9 @@ categories:
   - "servers"
   - "events"
 tags:
-  - "events"
-  - "server"
   - "naktac"
+  - "drills"  
+  - "sop"
 menu: drills
 showdates: false
 weight: 12

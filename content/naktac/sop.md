@@ -5,9 +5,9 @@ categories:
   - "servers"
   - "events"
 tags:
-  - "events"
-  - "server"
   - "naktac"
+  - "drills"
+  - "sop"
 menu: naktac
 showdates: false
 weight: 11
@@ -97,6 +97,7 @@ Radio communications via command net have a simple template to follow consisting
 >**You** from **Me**, Message, **Over**.
 
 Communication on the squad level net is much less formal, but should only be used for critical information, or for communication between elements out of vocal range. "Hey Matt, shift your fire left, there's another guy behind the next bush" is perfectly acceptable on the squad net, but not on the command net. Buddy Teams should communicate to each other and the Team Leader through the squad net, leaving command net for more important squad to squad and platoon command needs.
+
 
 ## Battle Drills
 

@@ -6,32 +6,13 @@
     <description>Recent content in servers on NakSquad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/servers/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Untitled. All rights reserved</copyright><atom:link href="/tags/servers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Servers</title>
       <link>/servers/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/servers/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
-      <title>NakTac</title>
-      <link>/naktac/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/naktac/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
-      <title>Battle Drills</title>
-      <link>/naktac/drills/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/naktac/drills/</guid>
       <description>changelog</description>
     </item>
     

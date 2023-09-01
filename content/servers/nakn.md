@@ -7,6 +7,7 @@ categories:
 tags:
   - "events"
   - "server"
+  - "snyops"
 menu: servers
 showdates: false
 weight: 99

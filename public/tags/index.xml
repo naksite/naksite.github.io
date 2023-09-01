@@ -9,6 +9,15 @@
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>drills</title>
+      <link>/tags/drills/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/drills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>events</title>
       <link>/tags/events/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
@@ -27,11 +36,11 @@
     </item>
     
     <item>
-      <title>servers</title>
-      <link>/tags/servers/</link>
+      <title>sop</title>
+      <link>/tags/sop/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/servers/</guid>
+      <guid>/tags/sop/</guid>
       <description></description>
     </item>
     
@@ -59,15 +68,6 @@
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>server</title>
-      <link>/tags/server/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/server/</guid>
       <description></description>
     </item>
     
@@ -108,11 +108,38 @@
     </item>
     
     <item>
+      <title>server</title>
+      <link>/tags/server/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>altis</title>
       <link>/tags/altis/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/altis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assault and pepper</title>
+      <link>/tags/assault-and-pepper/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/assault-and-pepper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birdops</title>
+      <link>/tags/birdops/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/birdops/</guid>
       <description></description>
     </item>
     
@@ -135,6 +162,15 @@
     </item>
     
     <item>
+      <title>freedom friday</title>
+      <link>/tags/freedom-friday/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/freedom-friday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>invade and annex</title>
       <link>/tags/invade-and-annex/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
@@ -153,11 +189,29 @@
     </item>
     
     <item>
+      <title>nakops</title>
+      <link>/tags/nakops/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/nakops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quicksilver</title>
       <link>/tags/quicksilver/</link>
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/quicksilver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snyops</title>
+      <link>/tags/snyops/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/snyops/</guid>
       <description></description>
     </item>
     
@@ -194,6 +248,24 @@
       <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
       
       <guid>/tags/tanoa-tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vanilla</title>
+      <link>/tags/vanilla/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/tags/vanilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servers</title>
+      <link>/tags/servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/servers/</guid>
       <description></description>
     </item>
     

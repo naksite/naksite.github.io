@@ -13,6 +13,8 @@ tags:
   - "cas"
   - "jtac"
   - "combined operations"
+  - "assault and pepper"
+  - "freedom friday"
   - "coop"
   - "co-op"
 menu: servers

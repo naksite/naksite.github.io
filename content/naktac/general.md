@@ -1,13 +1,14 @@
 ---
-title: "General Info"
-date: 2023-08-26
+title: "Tactical Operations General Info"
+date: 2023-08-31
 categories:
   - "servers"
   - "events"
 tags:
   - "events"
-  - "server"
   - "naktac"
+  - "drills"
+  - "sop"
 menu: naktac
 showdates: false
 weight: 10

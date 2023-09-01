@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vanilla on NakSquad</title>
+    <link>/tags/vanilla/</link>
+    <description>Recent content in vanilla on NakSquad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 01:32:07 -0500</lastBuildDate><atom:link href="/tags/vanilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAK#4 Public Vanilla Zeus</title>
+      <link>/servers/nak4/</link>
+      <pubDate>Sun, 06 Aug 2023 01:32:07 -0500</pubDate>
+      
+      <guid>/servers/nak4/</guid>
+      <description>See the main server for server description and rules
+When joining from the launcher click the &amp;ldquo;Keep Current Loaded Mods&amp;rdquo; button not the top one.
+Please complete the Zeus Survey for every zeus mission to take part in. It helps to improve the quality of the missions and the enjoyment of the servers for everyone.
+Mods    When Event Required Mods Optional Mods HTML Tool Last Updated     Wed@7pm BirdOps x Huge Allowed Mods List &amp;gt;NAK Modset Manager&amp;lt; 08-30-2023   Sat@5pm NakOps x see modset manager &amp;gt;NAK Modset Manager&amp;lt; 08-30-2023    Vanilla x Huge Allowed Mods List x 08-30-2023    Events NAK Ops  Saturday @ 5pm Eastern/US Runs 2-3 hours depending on the size and complexity of the mission.</description>
+    </item>
+    
+  </channel>
+</rss>

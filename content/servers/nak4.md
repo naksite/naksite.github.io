@@ -5,14 +5,12 @@ categories:
   - "servers"
   - "events"
 tags:
-  - "invade and annex"
   - "events"
   - "server"
-  - "modded"
-  - "mods"
-  - "cas"
-  - "jtac"
-  - "combined operations"
+  - "zeus"
+  - "vanilla"
+  - "nakops"
+  - "birdops"
   - "coop"
   - "co-op"
 menu: servers

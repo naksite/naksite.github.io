@@ -14,11 +14,11 @@
     <loc>/servers/nak4/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/naktac/general/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/naktac/general/</loc>
-    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
@@ -47,23 +47,29 @@
     <loc>/servers/nakn/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/drills/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/events/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/events/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/naktac/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/servers/</loc>
+    <loc>/categories/servers/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sop/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/events/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/modded/</loc>
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
@@ -75,12 +81,6 @@
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/news/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/server/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/servers/</loc>
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/zeus/</loc>
@@ -95,7 +95,16 @@
     <loc>/tags/nak-tac/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/server/</loc>
+    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/altis/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/tags/assault-and-pepper/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/tags/birdops/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/cas/</loc>
@@ -104,13 +113,22 @@
     <loc>/tags/combined-operations/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/tags/freedom-friday/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
     <loc>/tags/invade-and-annex/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/jtac/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/tags/nakops/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
     <loc>/tags/quicksilver/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
+    <loc>/tags/snyops/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
     <loc>/tags/taco-tuesday/</loc>
@@ -125,6 +143,9 @@
     <loc>/tags/tanoa-tuesday/</loc>
     <lastmod>2023-08-06T01:32:07-05:00</lastmod>
   </url><url>
+    <loc>/tags/vanilla/</loc>
+    <lastmod>2023-08-06T01:32:07-05:00</lastmod>
+  </url><url>
     <loc>/posts/230806-newhtmls/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -132,5 +153,7 @@
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/archives/</loc>
+  </url><url>
+    <loc>/tags/servers/</loc>
   </url>
 </urlset>
