@@ -18,20 +18,20 @@
     </item>
     
     <item>
-      <title>Battle Drills</title>
-      <link>/naktac/drills/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/naktac/drills/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
       <title>NakTac</title>
       <link>/naktac/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/naktac/</guid>
+      <description>changelog</description>
+    </item>
+    
+    <item>
+      <title>Battle Drills</title>
+      <link>/naktac/drills/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/drills/</guid>
       <description>changelog</description>
     </item>
     

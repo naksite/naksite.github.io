@@ -53,6 +53,15 @@ Mods    When Event Required Mods Optional Mods HTML Tool Last Updated     Wed@7p
     </item>
     
     <item>
+      <title>News</title>
+      <link>/posts/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>changelog</description>
+    </item>
+    
+    <item>
       <title>General Info</title>
       <link>/naktac/general/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
@@ -102,15 +111,6 @@ General Fundamental Principles  React immediately  Return fire Communicate Seek 
     </item>
     
     <item>
-      <title>News</title>
-      <link>/posts/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
       <title>Servers</title>
       <link>/servers/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
@@ -120,20 +120,20 @@ General Fundamental Principles  React immediately  Return fire Communicate Seek 
     </item>
     
     <item>
-      <title>Battle Drills</title>
-      <link>/naktac/drills/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/naktac/drills/</guid>
-      <description>changelog</description>
-    </item>
-    
-    <item>
       <title>NakTac</title>
       <link>/naktac/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/naktac/</guid>
+      <description>changelog</description>
+    </item>
+    
+    <item>
+      <title>Battle Drills</title>
+      <link>/naktac/drills/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/naktac/drills/</guid>
       <description>changelog</description>
     </item>
     
