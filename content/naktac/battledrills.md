@@ -81,6 +81,8 @@ Battle Drill 1 & 2 are examples of real tactics that are used consistently durin
 
 Battle Drills are simple in both concept and implementation, and can be done with Buddy Teams, or an entire platoon. They are meant to be simple and effective, conditioned into soldiers on the battlefield as muscle memory. 
 
+{{</* toc */>}}
+
 ## Battle Drill 1: CONDUCTING AN ASSAULT
 ### Support by Fire / Flanking Assault
 ### Assault a Bunker or Fortification

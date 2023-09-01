@@ -1,7 +1,7 @@
 ---
 title: "New Mod Tool"
 date: 2023-08-30
-tags: ["news","zeus","modded","mods","naktac"]
+tags: ["news","zeus","mods","naktac"]
 draft: false
 ---
 
