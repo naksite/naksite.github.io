@@ -18,6 +18,7 @@ draft: false
 
 The most fundamental battle drill is reacting to enemy fire. It forms the basis for many of the other tactics covered in this guide, and these guidelines should be kept in mind when reading about them and applied as necessary. 
 <!-- more -->
+{{< toc >}}
 #### General Fundamental Principles
 1. React immediately
     - Return fire

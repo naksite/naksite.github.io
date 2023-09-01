@@ -17,6 +17,7 @@ draft: false
 - Battle Drill 1 is a simple offensive plan, with our side firing the first shot. 
 The most planned battle drill is a simple assault or flanking assault. Nearly all assault plans are based off the guiding principle that once the assault begins, there is no fire without movement and there is no movement without fire. Violent action alone does not take ground in a meaningful way and neither does moving through it without dominating that territory. One or more elements maneuver into a superior assaulting position while one or more elements engage and suppress the assault target. Repeat until objectives are complete.
 <!-- more -->
+{{< toc >}}
 ##### General Fundamental Principles
 1. There is no fire without movement
     - As soon as the shooting starts, someone needs to be moving

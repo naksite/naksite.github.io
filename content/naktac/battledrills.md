@@ -81,30 +81,21 @@ Battle Drill 1 & 2 are examples of real tactics that are used consistently durin
 
 Battle Drills are simple in both concept and implementation, and can be done with Buddy Teams, or an entire platoon. They are meant to be simple and effective, conditioned into soldiers on the battlefield as muscle memory. 
 
-{{</* toc */>}}
 
-## Battle Drill 1: CONDUCTING AN ASSAULT
-### Support by Fire / Flanking Assault
-### Assault a Bunker or Fortification
-### Ambush
-##### Deliberate Ambush
-##### Hasty Ambush
-##### Delaying Ambush / Guerrilla Ambush
-##### The Linear Ambush
-##### The L-Shaped Ambush
-##### The Convoy/Vehicle Ambush
 
-## Battle Drill 2: REACTION TO CONTACT OR ENEMY FIRE
-##### Communicating Contact
-### Reaction to Enemy Fire
-##### Assault Through
-##### Breaking Contact
-##### Element Withdrawal
-### Reaction to Ambush
-##### Near Ambush
-##### Far Ambush
-### Reaction to Sniper Fire
-### Reaction to Air Attack
-##### Rotary-Wing (Helos)
-##### Fixed-Wing (Jets)
-### Reaction to Indirect Fire
+1. [Battle Drill 1: CONDUCTING AN ASSAULT](/naktac/drills/type-1-drills/#battle-drill-1-conducting-an-assault)
+    1. [Support by Fire / Flanking Assault](/naktac/drills/type-1-drills/#support-by-fire--flanking-assault)
+    1. [Assault a Bunker or Fortification](/naktac/drills/type-1-drills/#assaulting-a-bunker-or-fortification)
+    1. [Conducting an Ambush](/naktac/drills/type-1-drills/#conducting-an-ambush)
+        - [Types of Ambushes](/naktac/drills/type-1-drills/#types-of-ambushes)
+        - [Formations of an Ambush](/naktac/drills/type-1-drills/#formations-of-an-ambush)
+2. [Battle Drill 2: REACTION TO CONTACT OR ENEMY FIRE](/naktac/drills/type-2-drills/#battle-drill-2-reaction-to-contact--reaction-to-enemy-fire)
+   - [Communicating Contact](/naktac/drills/type-2-drills/#communicating-contact)
+    1. [Reaction to Enemy Fire](/naktac/drills/type-2-drills/#reaction-to-enemy-fire)
+        1. [Assault Through](/naktac/drills/type-2-drills/#assault-through)
+        1. [Breaking Contact](/naktac/drills/type-2-drills/#breaking-contact)
+        1. [Element Withdrawal](/naktac/drills/type-2-drills/#element-withdrawal)
+    1. [Reaction to Ambush](/naktac/drills/type-2-drills/#reaction-to-ambush)
+    1. [Reaction to Sniper Fire](/naktac/drills/type-2-drills/#reaction-to-sniper-fire)
+    1. [Reaction to Air Attack](/naktac/drills/type-2-drills/#reaction-to-air-attack)
+    1. [Reaction to Indirect Fire](/naktac/drills/type-2-drills/#reaction-to-indirect-fire)
