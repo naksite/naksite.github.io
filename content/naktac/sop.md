@@ -20,7 +20,7 @@ We cover these the four basic roles in this SOP guide because nine times out of 
 Additional guides will be provided for more specialized roles including combat medic, vehicle crew and leadership slots.
 <!-- more -->
 ## Structure
-Military formations are all built open the organization of smaller elements into more powerful and capable fighting units. With infantry, the smallest level of organization is the Buddy Team. They are the minimum group size that should have specific orders or goals as individuals do not last long in combat and are considered to be entirely ineffective. 
+Military formations are all built upon the organization of smaller elements into more powerful and capable fighting units. With infantry, the smallest level of organization is the Buddy Team. They are the minimum group size that should have specific orders or goals as individuals do not last long in combat and are considered to be entirely ineffective. 
 
 A buddy team consists of two or more soldiers who work together to keep each other alive. If you find yourself alone on the battlefield, find another lone soldier and form a new Buddy Team. While it could be thought that the level of tactics that two men could utilize and employ might seem limited, these tactics lay the groundwork for what larger units do. Buddies check each others backs, cover each other during movement and share target information. They are also responsible for bandaging each other until a medic becomes available. The individual roles are listed below.
 
