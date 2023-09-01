@@ -48,7 +48,7 @@ The following is a list of general measures an element can incorporate into thei
   - "Slice the pie" - reduce exposure
   - ID enemy location and return accurate and devastating fire
   - Maneuver on enemy & destroy him or break contact
-  - Stay in the fight.  Use "Just enough medical".
+  - Stay in the fight.  Use "Just enough medical"
   - Wounded troops apply "self aid" until fight is over
   - Reorganize/evacuate/treat casualties when suitable
 
