@@ -505,14 +505,19 @@
 /* Lists */
 
     ol { /* ordered lists */
-        list-style: upper-roman;
+        list-style: decimal-leading-zero;
         padding-left: 0.25em;
         margin-left: 1.0em; 
 
         ol { /* nested ordered lists */
             list-style: lower-alpha;
             padding-left: 0.25em;
-            margin-left: 1.0em;}
+            margin-left: 1.0em;
+            ol { /* nested ordered lists */
+                list-style: lower-roman;
+                padding-left: 0.25em;
+                margin-left: 1.0em;}
+            }
         ul { /* nested unordered lists */
             list-style: circle;
             padding-left: 0.25em;

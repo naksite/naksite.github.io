@@ -17,7 +17,6 @@ draft: false
 - Battle Drill 1 is a simple offensive plan, with our side firing the first shot. 
 The most planned battle drill is a simple assault or flanking assault. Nearly all assault plans are based off the guiding principle that once the assault begins, there is no fire without movement and there is no movement without fire. Violent action alone does not take ground in a meaningful way and neither does moving through it without dominating that territory. One or more elements maneuver into a superior assaulting position while one or more elements engage and suppress the assault target. Repeat until objectives are complete.
 <!-- more -->
-{{< toc >}}
 ##### General Fundamental Principles
 1. There is no fire without movement
     - As soon as the shooting starts, someone needs to be moving
@@ -89,14 +88,14 @@ Players must also consider the use of explosives devices like satchel charges an
 ##### The Linear Ambush
 A linear ambush is the most basic type. In it, all ambushing forces are arrayed in a single line. This type of ambush is easy to set up in a hurry and works well in most situations. Many hasty ambushes end up as linear ambushes due to lack of time and mobility to get an L-shaped ambush enacted. Note that the longer the line is, the harder it is for the enemy to find cover or concealment - features that may conceal him from one end of the line may not have an effect due to a member on the other end being able to still see him. Note also that the ambushing team should not be spread so thin that the ambushees are able to assault into the ambush and drive a wedge through the line.
 
-Picture
+[![](/images/linear-ambush.png)]
 
 ##### The L-Shaped Ambush
 An L-shaped ambush is a bit more complex to pull off, but the extra effort is rewarded by markedly increased effectiveness. An L-shaped ambush requires that one element be positioned at a right-angle to the rest of the ambush. When the ambush is initiated, one of the two elements will find itself firing into the flanks of the enemy, while the other element will be firing into its front. Being hit from two sides like this will rapidly attrit the enemy and make it almost impossible for them to survive. A well-conducted L-shaped ambush is near certain death for those trapped in the kill zone.
 ​
 L-Shaped ambushes can be done with any composition of forces. Even a single infantryman who is off to the side of the enemy when they come under fire from the front can have a dramatic effect. Initiating fires from the front while a sniper or designated marksman lurks quietly off to the enemy's flank can be highly effective - the enemy will find cover or concealment that protects them from the front, leaving their flanks open to the sniper or designated marksman who can then pick them off at will.
 
-Picture
+[![](/images/l-ambush.png)]
 
 ##### The Convoy/Vehicle Ambush
 Vehicle/convoy ambushes are similar to infantry ambushes, with the main difference being that the vehicles are able to exit the kill zone rapidly if nothing is done to stop them, and armored vehicles can quickly turn the tides by attacking into the ambush if they are not rapidly dealt with.

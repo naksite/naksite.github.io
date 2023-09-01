@@ -18,7 +18,6 @@ draft: false
 
 The most fundamental battle drill is reacting to enemy fire. It forms the basis for many of the other tactics covered in this guide, and these guidelines should be kept in mind when reading about them and applied as necessary. 
 <!-- more -->
-{{< toc >}}
 #### General Fundamental Principles
 1. React immediately
     - Return fire
@@ -84,7 +83,7 @@ If your element comes under fire, follow these basic guidelines, depending on wh
 ### Reaction to Enemy Fire
 
 ##### Assault Through
-Picture
+[![](/images/assault-through.jpg)]
 
 Assault Through is a technique in which an element assaults an enemy force or position with aggressive & violent action. Fire & movement tactics are used to ensure that a steady volume of fire is put on the enemy location(s) during the assault. This helps to keep the enemy's head down and prevents them from keeping friendly forces decisively engaged. This may be used in a situation such as an ambush or react to contact scenario where shock-and-awe tactics are more favorable than breaking contact.
 
@@ -98,11 +97,11 @@ An Assault Through technique is a rapid assault maneuver that is typically done 
 6. Following the assault, the element leader may call in for an ACE report and then proceed with the mission.
 
 ##### Breaking Contact/Withdrawing
-Breaking contact is the means by which an element disengages from a confrontation with an enemy force in an orderly fashion. Fire & maneuver tactics are used to ensure that a steady volume of fire is put on the enemy location(s) during the withdrawal. This helps to keep the enemy's head down and prevents them from keeping friendly forces decisively engaged.
-​
+Breaking contact is the means by which an element disengages from a confrontation with an enemy force in an orderly fashion. Fire & maneuver tactics are used to ensure that a steady volume of fire is put on the enemy location(s) during the withdrawal. This helps to keep the enemy's head down and prevents them from keeping friendly forces decisively engaged.\
+​\
 Breaking contact is basically an assault done in reverse.
 
-Picture
+[![](/images/break-contact.jpg)]
 
 The primary method of breaking contact is via Bounding. This is also known as 'Thinning the Lines' or 'Reverse Leapfrogging'. With the former applying to individual players, while the latter applies to elements. This is best executed when the element in contact has weapon systems that provide good fire superiority.
 
