@@ -72,7 +72,7 @@ Wounded troops apply "self aid" until fight is over
 Reorganize/evacuate/treat casualties when suitable
 |
 
-## Battle Drills
+## Drill Types
 
 Battle Drill 1 & 2 are examples of real tactics that are used consistently during missions. It is vital that team leaders have a firm understanding of these tactics, while everyone should know the basics in case of casualties involving the leadership. 
 
@@ -82,9 +82,9 @@ Battle Drill 1 & 2 are examples of real tactics that are used consistently durin
 Battle Drills are simple in both concept and implementation, and can be done with Buddy Teams, or an entire platoon. They are meant to be simple and effective, conditioned into soldiers on the battlefield as muscle memory. 
 
 ## Battle Drill 1: CONDUCTING AN ASSAULT
-
-## ASSAULT A BUNKER OR FORTIFICATION
-##### CONDUCTING AN AMBUSH
+### Support by Fire / Flanking Assault
+### Assault a Bunker or Fortification
+### Ambush
 ##### Deliberate Ambush
 ##### Hasty Ambush
 ##### Delaying Ambush / Guerrilla Ambush
@@ -94,14 +94,15 @@ Battle Drills are simple in both concept and implementation, and can be done wit
 
 ## Battle Drill 2: REACTION TO CONTACT OR ENEMY FIRE
 ##### Communicating Contact
-## Assault Through
-## Breaking Contact
-## Element Withdrawal
-## REACTION TO AMBUSH
+### Reaction to Enemy Fire
+##### Assault Through
+##### Breaking Contact
+##### Element Withdrawal
+### Reaction to Ambush
 ##### Near Ambush
 ##### Far Ambush
-## REACTION TO SNIPER
-## REACTION TO AIR ATTACK
+### Reaction to Sniper Fire
+### Reaction to Air Attack
 ##### Rotary-Wing (Helos)
 ##### Fixed-Wing (Jets)
-## REACTION TO INDIRECT FIRE
+### Reaction to Indirect Fire

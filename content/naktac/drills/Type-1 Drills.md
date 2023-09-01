@@ -27,14 +27,14 @@ The most planned battle drill is a simple assault or flanking assault. Nearly al
 4. Press the assault until no longer possible
     - Then switch to support so other teams can continue the assault
 
-## Support by Fire / Flanking Assault
+### Support by Fire / Flanking Assault
 An assault takes two teams and designates one as the fire support element, and one as the assaulting element. The support group fixes the target with heavy, accurate shooting, while the assaulting element flanks **boldly** to the most covered or concealed flank. **Speed is life.**
 
 As the assaulting element closes on the target, they can call for the support element to "shift fire". This means for them to move their suppressing fire to the opposite flank, to avoid friendly fire while keeping the target's heads down. 
 
 The goal is to distract and disrupt the enemy with suppressive fire so that the flanking element can get into a position to destroy the enemy in-close. 
 
-## Assaulting a bunker or fortification
+### Assaulting a bunker or fortification
 Bunkers are a means by which a prepared infantry force can more strongly defend a location. Characteristic of a bunker are sturdy walls which provide significant protection from direct and indirect fire - sandbags, reinforced concrete, or similar - as well as apertures from which occupants can fire out. Bunkers are often mutually-supporting, with covered or concealed routes leading from one position to another, with bunkers able to cover each other from close assault, and many are camouflaged to make them difficult to spot in advance of them opening fire. If not properly approached, a single well-placed bunker can wreak havoc on friendly forces. Bear in mind that a bunker may contain more than just light infantry weapons - some conceal heavy machineguns, grenade machineguns, anti-tank missiles, or anti-aircraft cannons. A well-integrated bunker complex will have a mix of anti-infantry and anti-vehicle weaponry and should be approached and attacked with great caution and planning.
 
 The toughest bunkers take the form of elevated modular metal/concrete structures intended to act as both observation posts and fighting positions. These come in a variety of forms and sizes, but characteristic amongst them are windows that can be closed to provide greater protection to those inside.
@@ -50,13 +50,13 @@ When all other options have been exhausted, troops must enter into the bunker an
 
 Keep in mind that a proper defense will employ the concept of mutual support – which is to say that any given bunker will be covered by another bunker in another position. It will often be necessary to smoke multiple bunkers at the same time to negate this advantage, or even assault multiple bunkers simultaneously.
 
-## Conducting an Ambush
+### Conducting an Ambush
 
 An ambush is defined in the US Army's "Infantry Platoon and Rifle Squad" publication as "...a surprise attack by fire from concealed positions on a moving or temporarily halted enemy unit. It combines the advantages and characteristics of the offense with those of the defense."
 ​
 Ambushes are an extremely favorable way to engage the enemy. The combination of surprise and fierce, accurate fire can rip an enemy element to pieces before they have time to react.
 
-##### Types of Ambushes
+#### Types of Ambushes
 There are three main types of ambushes for our purposes - the deliberate one, in which you know that an enemy force is going to be moving through a given area, the hasty one, in which we unexpectedly have an opportunity to ambush an enemy force that has not detected us, and the delaying or guerrilla one, in which we are attempting to strike the enemy, cause casualties and confusion, and they withdraw before they can retaliate.
 
 ##### Deliberate Ambush
@@ -74,7 +74,7 @@ The goal of a guerrilla ambush, on the other hand, is to engage the enemy by fir
 
 Both of these ambush teams must be able to engage the enemy, produce the desired effect, and relocate or disengage before enemy support assets such as artillery or close air support can be brought to bear.
 
-### Key Elements of an Ambush
+#### Key Elements of an Ambush
 The key elements of any ambush are friendly positioning, location of the kill zone, and proper initiation of fires.
 
  - Friendly Positioning. The best ambushes have the friendly forces located in good cover and concealment, firing from an elevated position. This makes it the most difficult for the ambushed enemy to be able to effectively retaliate.
@@ -83,7 +83,7 @@ The key elements of any ambush are friendly positioning, location of the kill zo
 
 Players must also consider the use of explosives devices like satchel charges and claymore mines. These are usually not practical for a hasty ambush, but a vehicle ambush or deliberate ambush can benefit greatly from their usage. Triggering explosives to start an ambush is very effective, as it adds an extra layer of shock and confusion to the situation for the enemy.
 
-## Formations of an Ambush
+#### Formations of an Ambush
 
 ##### The Linear Ambush
 A linear ambush is the most basic type. In it, all ambushing forces are arrayed in a single line. This type of ambush is easy to set up in a hurry and works well in most situations. Many hasty ambushes end up as linear ambushes due to lack of time and mobility to get an L-shaped ambush enacted. Note that the longer the line is, the harder it is for the enemy to find cover or concealment - features that may conceal him from one end of the line may not have an effect due to a member on the other end being able to still see him. Note also that the ambushing team should not be spread so thin that the ambushees are able to assault into the ambush and drive a wedge through the line.
