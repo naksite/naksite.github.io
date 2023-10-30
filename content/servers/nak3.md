@@ -49,7 +49,7 @@ draft: false
 - If you are not taking part in the event, you are free to do as you please, but you may be asked to move to another channel if the event commander needs to speak to the event channel.
 
 > NAK#3 Tanoa Quicksilver \
-144.48.106.187:2321
+104.243.32.98:2402
 
 - Visit our website [naksquad.net](https://naksquad.net) for a complete listing of the rules or ask a moderator or admin for clarification.
 ---
