@@ -30,8 +30,9 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 ### Mods
 |**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Old| Unsung | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_unsung=3006511687,3006516384*) | 07-22-2023 |
-| Current--> | **Base** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3026334460) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3006516384) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak2_basic=3026334460,3006516384*) | 08-26-2023 |
+| Old | Unsung | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_unsung=3006511687,3006516384*) | 07-22-2023 |
+| Base | **Base** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3052014987) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nak2_basic=3026334460,3006516384*) | 08-26-2023 |
+| Current--> | **EVENT** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687)+[Event](https://steamcommunity.com/sharedfiles/filedetails/?3059597576) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3052014987) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nakHalloween=3052010687,3059597576,3052014987*) | 10-28-2023 |
 
 ### Events
 
