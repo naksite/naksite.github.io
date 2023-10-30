@@ -28,11 +28,11 @@ It helps to improve the quality of the missions and the enjoyment of the servers
 <!-- Table Generator https://www.tablesgenerator.com/markdown_tables -->
 <!-- Table data importer https://anywaydata.com/app# -->
 ### Mods
-|**When**| **Event** | **Required Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
+|**When**| **Event** | **Required Mods** | **Required Event Mods** | **Optional Mods** | **HTML Tool** | **Last Updated** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Old | Unsung | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_unsung=3006511687,3006516384*) | 07-22-2023 |
-| Base | Base | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3052014987) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_basic=3026334460,3006516384*) | 08-26-2023 |
-| Current--> | **Halloweedn Event** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687) + [Event](https://steamcommunity.com/sharedfiles/filedetails/?3059597576) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3052014987) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nakHalloween=3052010687,3059597576,3052014987*) | 10-28-2023 |
+| Old        | Unsung        | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006511687) | na                                                                             | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3006516384) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_unsung=3006511687,3006516384*)                    | 07-22-2023 |
+| Base       | Base          | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687) | na                                                                             | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052014987) | [NAK Modset Manager](https://dell-wsl.rove-minor.ts.net/?nak2_basic=3026334460,3006516384*)                     | 08-26-2023 |
+| Current--> | **Halloweed** | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052010687) | [Halloween](https://steamcommunity.com/sharedfiles/filedetails/?id=3059597576) | [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3052014987) | [**>NAK Modset Manager<**](https://dell-wsl.rove-minor.ts.net/?nakHalloween=3052010687,3059597576,3052014987*)  | 10-28-2023 |
 
 ### Events
 
